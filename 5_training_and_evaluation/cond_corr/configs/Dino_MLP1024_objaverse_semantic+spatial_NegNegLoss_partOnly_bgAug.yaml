@@ -1,0 +1,46 @@
+exp_args:
+    seed: 1234
+    debug: False  # debug=True will not log training
+    exp_name: Dino_MLP1024_objaverse_semantic+spatial_NegNegLoss_partOnly_bgAug_10weightSpatial_1weightMask
+training_args:
+    semantic: True  # whether to enable functional part contrastive loss
+    spatial: True  # whether to enable spatial contrastive loss
+    negneg_loss: True  # whether to add loss for negative region with negative region in functional part contrastive loss
+    weight_spatial: 10.0  # weight of spatial loss
+    spatial_partonly: True  # whether spatial loss only calculated on the functional parts
+    mask_loss_weight: 1.0  # weight of optional mask loss
+    mask_loss: True  # whether to enable mask loss
+model_args:
+    use_last_layers: 3  # use weighted average of last 3 dino layers
+    use_smaller_stride: False  # use smaller stride in dino or not
+    use_featup: False  # experimental: use featup or not
+additional_model_args:
+    use_lora: False  # experimental: use lora to finetune DINO or not
+    use_film: False  # experimental: use film to finetune DINO or not
+    lora_rank: 8
+    n_blocks: 3
+    dino_size: "base"
+data_args:
+    datasets: ["objaverse"]
+    ego_subsample: null
+    pairs_per_batch: 50
+    train_samples: 1000
+    eval_samples: 50
+    num_points: 128
+    load_in_ram: True
+    test_selected: False
+    num_workers: 16
+optim_args:
+    epochs: 100
+    lr: 1.0e-4
+aug_args:  # only bg augmentation is enables below
+    # HorizontalFlip: [0.5]
+    # VerticalFlip: [0.0]
+    # BrightnessAug: [0.5, 0.6, 1.6]
+    # HueAug: [0.5, -0.5, 0.5]
+    # GammaAug: [0.5, 0.5, 1.5]
+    # ContrastAug: [0.5, 0.6, 1.6]
+    # SaturationAug: [0.5, 0.0, 2.0]
+    # BlurAug: [0.0, [5, 7], 0.1, 3]
+    # RandomMaskingAug: [1.0, 0.5, "domain_randomized", ["rotation", "scaling"]]
+    RandomMaskingAug: [1.0, 0.0, "domain_randomized", ["rotation", "scaling"]]

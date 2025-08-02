@@ -1,0 +1,3 @@
+TOKENIZER_PATH = "<#TODO: path to downloaded checkpoint>/models--lmsys--vicuna-7b-v1.5/snapshots/3321f76e3f527bd14065daf69dad9344000a201d"
+GROUNDING_MODEL_PATH = "<#TODO: path to downloaded checkpoint>/models--THUDM--cogvlm-grounding-generalist-hf/snapshots/f3440bb2344cf1fe226857042c5a1ea323a9a0fb"
+CHAT_MODEL_PATH = "<#TODO: path to downloaded checkpoint>/models--THUDM--cogvlm-chat-hf/snapshots/e29dc3ba206d524bf8efbfc60d80fc4556ab0e3c"
