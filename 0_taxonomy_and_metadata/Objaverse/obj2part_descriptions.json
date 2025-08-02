@@ -1,0 +1,730 @@
+{
+ "paintbrush": {
+  "bristles": "- Bristles - The soft, flexible fibers at one end of the paintbrush used to apply and transfer paint to surfaces.",
+  "head": "- Head - The part of the paintbrush where the bristles are secured, facilitating the application of paint.",
+  "tip": "- Tip - The very end of the brush's bristles, typically pointed, used for precise and detailed application of paint or ink."
+ },
+ "hairbrush": {
+  "bristles": "- Bristles - Small, stiff fibers on one surface of the brush used to detangle and style hair.",
+  "pad": "- Pad - The cushioned base where the bristles are anchored, which flexes slightly to contour to the scalp during brushing.",
+  "back": "- Back - The flat, opposite side of the bristle area, which can be used to pound against surfaces.",
+  "head": "- Head - The part of the brush where the bristles are attached, used to sweep along surfaces."
+ },
+ "toothbrush": {
+  "bristles": "- Bristles - Small, stiff fibers typically made of nylon at the toothbrush head, used for cleaning teeth.",
+  "head": "- Head - The top, typically rectangular part of the toothbrush where the bristles are attached, used for brushing teeth."
+ },
+ "mop": {
+  "bristles": "- Bristles - Stiff fibers at the end of the mop used to sweep and brush away dirt.",
+  "head": "- Head - The part of the mop to which bristles are attached, used for cleaning floors and surfaces."
+ },
+ "broom": {
+  "bristles": "- Bristles - Stiff, hair-like fibers at the bottom of the broom used for sweeping.",
+  "head": "- Head - The lower end of the broom where bristles are attached for sweeping."
+ },
+ "brush": {
+  "bristles": "- Bristles - The dense assembly of flexible fibers or strands at one end of the brush, used for sweeping or mixing substances.",
+  "head": "- Head - The part of the brush where the bristles are attached, typically flat or slightly curved, used for brushing actions."
+ },
+ "feather": {
+  "barb": "- Barb - Small, fine projections extending from the central shaft of a feather, interlocking to form the vane and capable of trapping dust particles.",
+  "vane": "- Vane - The flat, extended surface on either side of a feather's shaft, consisting of numerous barbs used for sweeping or brushing particles."
+ },
+ "dagger": {
+  "blade": "- Blade - The flat, sharp part used for cutting, scraping, and peeling.",
+  "edge": "- Edge - The sharpened side of the blade used for slicing or scraping materials.",
+  "tip": "- Tip - The pointed end of the dagger blade, useful for inserting into small openings to pry.",
+  "spine": "- Spine - The non-sharpened back edge of the dagger blade that provides rigid support for prying."
+ },
+ "letter opener": {
+  "blade": "- Blade - The flat, sharp, typically metal part used for cutting or scraping.",
+  "edge": "- Edge - The sharpened side of the blade used for slicing through envelopes or scraping off materials.",
+  "tip": "- Tip - The pointed and sharp end of the letter opener, used for poking or stirring small contents."
+ },
+ "chisel": {
+  "blade": "- Blade - The flat, sharp part of the chisel used for cutting, carving, scraping, slicing, or wedging into various materials.",
+  "edge": "- Edge - The sharpened side of the blade used for cutting, slicing, or scraping material.",
+  "tip": "- Tip - The sharp, pointed end of the chisel blade used for piercing, puncturing, and initiating cuts into materials."
+ },
+ "cleaver": {
+  "blade": "- Blade - The broad, flat part of the cleaver used for chopping, cutting, and scraping surfaces.",
+  "edge": "- Edge - The sharpened side of the blade used for slicing, lifting items, and scraping surfaces.",
+  "back": "- Back - The thick, blunt top edge of the cleaver blade, opposite the cutting edge, used for spreading substances.",
+  "side": "- Side - The broad, flat surfaces of the cleaver blade, usable for pounding and spreading soft materials."
+ },
+ "axe": {
+  "blade": "- Blade - The sharp, wedge-shaped metal part used for cutting or splitting.",
+  "edge": "- Edge - The sharpened boundary of the blade used for cutting or splitting materials.",
+  "back": "- Back - The flat, opposite side of the axe blade, often used for hammering.",
+  "head": "- Head - The top part of an axe, which includes both the blade and the back."
+ },
+ "razor blade": {
+  "blade": "- Blade - The thin, flat metal piece that is sharp and used for cutting.",
+  "edge": "- Edge - The sharpened side of the razor blade used for slicing or scraping materials.",
+  "corner": "- Corner - The point where two edges of the razor blade meet, often used for more precise scraping."
+ },
+ "box cutter": {
+  "blade": "- Blade - The sharp, retractable metal part used for cutting, slicing, or scraping materials.",
+  "edge": "- Edge - The sharpened side of the blade used for cutting, scraping, or peeling materials.",
+  "tip": "- Tip - The pointed end of the blade that initiates piercing."
+ },
+ "machete": {
+  "blade": "- Blade - The long, wide, flat part used for cutting and scraping.",
+  "edge": "- Edge - The sharpened side of the blade used for slicing or scraping materials.",
+  "tip": "- Tip - The pointed end of the blade, suitable for piercing."
+ },
+ "saw": {
+  "blade": "- Blade - The toothed metal strip which slices through materials.",
+  "teeth": "- Teeth - The jagged edges along the blade used for cutting."
+ },
+ "credit card": {
+  "edge": "- Edge - The thin, straight perimeter of the credit card, often used for sweeping small items.",
+  "surface": "- Surface - The flat, broad side of the credit card.",
+  "corner": "- Corner - One of the pointy edges of the credit card, typically more effective for scraping."
+ },
+ "scalpel": {
+  "blade": "- Blade - The thin, flat, sharp metal part used for cutting, scraping, peeling, or mixing.",
+  "edge": "- Edge - The sharpened side of the blade used for slicing, incisions, or separating materials.",
+  "tip": "- Tip - The very end of the blade that is sharp and pointed, ideal for piercing.",
+  "shaft": "- Shaft - The elongated part connecting the handle to the blade, can also be used for mixing."
+ },
+ "spatula": {
+  "edge": "- Edge - The thin, slightly sharpened side of the spatula blade designed for slicing or lifting.",
+  "blade": "- Blade - The flat, wide, and flexible part of the spatula used for lifting, flipping, and spreading.",
+  "head": "- Head - The broad upper section attached to the handle, designed for lifting and distributing substances or food items.",
+  "tip": "- Tip - The end portion of the blade, which can be inserted to pry."
+ },
+ "ice skate": {
+  "blade": "- Blade - The metal part attached beneath the boot that comes into contact with the ice, used for cutting into the ice surface.",
+  "edge": "- Edge - The sharp side of the blade that slices into the ice during skating movements."
+ },
+ "knife": {
+  "blade": "- Blade - The flat, sharp part of the knife used for cutting, digging, and prying.",
+  "edge": "- Edge - The sharpened side of the blade used for slicing, scraping, or spreading materials.",
+  "tip": "- Tip - The pointed end of the knife blade, designed for piercing or prying into narrow spaces.",
+  "spine": "- Spine - The top, non-sharpened edge of the blade that provides strength and support for lifting or prying.",
+  "back": "- Back - The dull opposite edge of the blade that can be safer to use for mixing without cutting."
+ },
+ "pizza cutter": {
+  "blade": "- Blade - The round, sharp part that rotates to slice through pizza.",
+  "edge": "- Edge - The outer circumference of the blade that makes contact with the pizza to cut it."
+ },
+ "scissors": {
+  "edges": "- Edges - The sharpened sides of the blades that slice through items.",
+  "blade": "- Blade - The flat, sharp part used for cutting, which can also be used to scrape surfaces.",
+  "point": "- Point - The sharp tip of each blade used for piercing materials."
+ },
+ "key": {
+  "edge": "- Edge - The side of the key blade that can be thin and sharp enough for cutting.",
+  "blade": "- Blade - The long, flat part of the key that contains cuts and grooves, designed for insertion into a lock.",
+  "tip": "- Tip - The pointed end of the key opposite the head, used for insertion, prying, or scraping in small openings."
+ },
+ "CD": {
+  "edge": "- Edge - The thin, circular outer boundary of the CD that may be sharp enough to scrape or lightly cut surfaces."
+ },
+ "ruler": {
+  "edge": "- Edge - The straight, thin side of the ruler used for cutting, lifting, scraping, spreading materials, and prying.",
+  "end": "- End - The flat, shorter side of the ruler used for prying, levering, or manipulating objects.",
+  "corner": "- Corner - The point where two edges meet, often used for more precise scraping tasks.",
+  "surface": "- Surface - The flat, broad face of the ruler, suitable for spreading substances evenly."
+ },
+ "sword": {
+  "blade": "- Blade - the long, flat part used for slicing or cutting.",
+  "edge": "- Edge - the sharpened side of the blade designed to make incisions.",
+  "point": "- Point - The sharp tip of the sword designed for piercing."
+ },
+ "fork": {
+  "tines": "- Tines - Long, thin, pointed projections at the end of the fork used for piercing, picking up, and manipulating food.",
+  "tip": "- Tip - The pointed ends of the tines used for piercing and poking into food items.",
+  "edge": "- Edge - The side of the tines that can be used to scrape against surfaces.",
+  "neck": "- Neck - The section that connects the handle to the head of the fork, which can be swirled around in a mixing action.",
+  "shaft": "- Shaft - The long, narrow part of each tine which can help leverage in prying actions."
+ },
+ "shovel": {
+  "blade": "- Blade - The flat, broad part at the end of the shovel used for digging, scooping, scraping, and prying materials.",
+  "tip": "- Tip - The pointed end of the blade designed for breaking hard ground and prying into narrow spaces.",
+  "scoop": "- Scoop - The concave, curved part of the blade that holds and lifts materials like soil or snow.",
+  "edge": "- Edge - The bottom edge of the shovel blade that comes into contact with the ground or other surfaces.",
+  "back": "- Back - The flat, opposite side of the shovel's blade, used for pounding."
+ },
+ "spoon": {
+  "bowl": "- Bowl - The rounded, concave part at the end of the spoon used for scooping, holding, or spreading substances.",
+  "tip": "- Tip - The end of the spoon's bowl farthest from the handle, used for scooping, lifting food, and prying into narrow spaces.",
+  "back": "- Back - The convex, outward-facing side of the spoon's bowl, used for pressing, pounding, spreading, or mixing.",
+  "rim": "- Rim - The edge or perimeter of the spoon's bowl that assists in scooping and scraping items."
+ },
+ "pickaxe": {
+  "head": "- Head - The metal end of the pickaxe, heavy and designed for digging into and breaking materials.",
+  "blade": "- Blade - The flat, wide, and sharp side of the pickaxe head used for cutting, scooping, breaking up materials, and scraping surfaces.",
+  "tip": "- Tip - The very end of the point, which is the initial part to make contact when poking.",
+  "back": "- Back - The rear part of the head opposite the pointed end, often used for hammering.",
+  "adze": "- Adze - The horizontal blade on the opposite side of the point, used for scooping or carving."
+ },
+ "trowel": {
+  "blade": "- Blade - The flat, typically metal and pointed part used for digging, scooping, and scraping soil.",
+  "tip": "- Tip - The sharp end of the blade used for penetrating the ground and precision spreading.",
+  "scoop": "- Scoop - The concave, curved section of the blade designed to lift and hold materials.",
+  "edge": "- Edge - The sharpened or straight boundary of the blade used for scraping, pushing, or gathering material."
+ },
+ "plow": {
+  "blade": "- Blade - The flat, sharp part used for breaking and turning the soil.",
+  "share": "- Share - The cutting edge at the bottom of the plow which slices into the ground.",
+  "moldboard": "- Moldboard - The curved surface that lifts and rolls the soil sideways."
+ },
+ "chopsticks": {
+  "tip": "- Tip - The narrow, tapered end of the chopstick used for picking up, piercing, or manipulating food items.",
+  "shaft": "- Shaft - The long, slender body of the chopstick, effective for stirring and mixing in deeper vessels."
+ },
+ "screwdriver": {
+  "shaft": "- Shaft - The long, cylindrical metal part extending from the handle to the tip, used for scraping or prying.",
+  "tip": "- Tip - The pointed or flat end of the screwdriver, used for inserting into screw heads, small crevices, or for prying objects apart."
+ },
+ "hoe": {
+  "blade": "- Blade - The flat, sharp metal part at the end of the hoe used for breaking up soil, chopping, weeding, or scraping material across surfaces.",
+  "face": "- Face - The broad, flat surface of the blade used for pushing or pulling through soil and debris.",
+  "edge": "- Edge - The sharpened side of the blade that digs into and scrapes soil or debris."
+ },
+ "stick": {
+  "tip": "- Tip - The narrow, pointy end of the stick used for piercing or poking into materials."
+ },
+ "awl": {
+  "tip": "- Tip - The sharp, pointed end of the awl used for piercing, scraping, or mixing materials.",
+  "shaft": "- Shaft - The long, typically metal part of the awl extending from the handle to the tip, used for applying pressure and capable of rotation.",
+  "blade": "- Blade - The sharp, thin metal part used for scraping.",
+  "spike": "- Spike - The long, tapered metal part that includes the tip and is used for poking or making holes."
+ },
+ "nail": {
+  "tip": "- Tip - The very end of the nail designed for initial penetration and contact with surfaces.",
+  "shank": "- Shank - The long, straight body of the nail which can also be used to scrape."
+ },
+ "paddle": {
+  "blade": "- Blade - The broad, flat part of the paddle used for pushing against water, soil, sand, or for stirring contents.",
+  "tip": "- Tip - The end part of the blade that can be used to pierce or break into the ground.",
+  "face": "- Face - The wide, flat surface on either side of the blade, used for exerting pressure, sweeping movements, and mixing materials.",
+  "edge": "- Edge - The side part of the blade useful for scraping along narrow lines or tighter spots."
+ },
+ "dustpan": {
+  "scoop": "- Scoop - The main concave part of the dustpan used to collect and hold debris.",
+  "lip": "- Lip - The flat, slightly raised edge that contacts the floor to facilitate sweeping debris into the dustpan.",
+  "pan": "- Pan - The flat, typically broad receptacle part that collects dust and debris."
+ },
+ "lid": {
+  "underside": "- Underside - The lower surface of the lid that faces into the container, which can also press against contents or another surface when flipped.",
+  "top": "- Top - The uppermost surface of the lid, which can be used to apply a lifting force.",
+  "edge": "- Edge - The thin, outer rim of the lid that can be used to scrape substances."
+ },
+ "teapot": {
+  "base": "- Base - The bottom surface of the teapot, which can be pressed against a surface.",
+  "spout": "- Spout - The protruding part of the teapot designed to direct and control the pouring of liquids."
+ },
+ "pan": {
+  "base": "- Base - The flat bottom surface of the pan that comes into contact with heat sources for cooking.",
+  "bowl": "- Bowl - The curved interior part of the pan where food or liquids accumulate, useful for scooping.",
+  "rim": "- Rim - The circular edge around the top of the pan that assists in controlling and scooping out liquids.",
+  "spout": "- Spout - A specifically designed protrusion or notch at the rim of the pan to direct the flow of liquids.",
+  "side": "- Side - The vertical perimeter of the pan that can also be utilized to pound."
+ },
+ "plate": {
+  "base": "- Base - The bottom surface of the plate, which can be pressed against a surface.",
+  "rim": "- Rim - The perimeter or edge of the plate that supports lifting.",
+  "surface": "- Surface - The flat, usually circular area of the plate, useful for sliding underneath to lift."
+ },
+ "plank": {
+  "surface": "- Surface - The flat, broad side of the plank which can be pressed against other objects."
+ },
+ "smartphone": {
+  "back": "- Back - The rear exterior surface of the smartphone."
+ },
+ "bottle": {
+  "base": "- Base - The bottom part of the bottle, typically flat and stable, used to press against surfaces.",
+  "mouth": "- Mouth - The opening at the very top of the bottle from which liquids can be poured out.",
+  "neck": "- Neck - The narrow part at the top of the bottle which tapers from the body leading to the opening.",
+  "body": "- Body - The cylindrical central part of the bottle, robust and capable of rolling on its side.",
+  "side": "- Side - The curved surface of the bottle that makes contact with another surface when pounded or rolled."
+ },
+ "jar": {
+  "base": "- Base - The bottom part of the jar, typically flat, which can be pressed against a surface.",
+  "mouth": "- Mouth - The opening at the top of the jar from which contents are poured out.",
+  "neck": "- Neck - The upper part of the jar that tapers towards the mouth, guiding the flow of contents.",
+  "body": "- Body - The main cylindrical or rounded part of the jar, robust enough for handling and rolling."
+ },
+ "cup": {
+  "base": "- Base - The bottom part of the cup, which can be pressed against a surface.",
+  "bowl": "- Bowl - The open, hollow part of the cup used to contain liquids or solids.",
+  "rim": "- Rim - The upper edge of the cup where it opens outward for pouring liquid.",
+  "lip": "- Lip - The slightly protruded edge at the top of the cup aimed at directing the flow of liquid.",
+  "side": "- Side - The cylindrical outer surface of the cup that can make rolling contact with a surface."
+ },
+ "pestle": {
+  "head": "- Head - The broad, rounded end of the pestle used for pressing, crushing, or grinding substances.",
+  "body": "- Body - The main cylindrical part of the pestle, which can also be used for pounding ingredients."
+ },
+ "hammer": {
+  "head": "- Head - The solid, heavy metal part at the top of the hammer, used for striking.",
+  "face": "- Face - The flat, front part of the hammer's head used for making contact with and pounding nails or other objects.",
+  "claw": "- Claw - The curved, forked part typically at the back of a hammer head, used for pulling nails."
+ },
+ "pot": {
+  "base": "- Base - The flat, bottom surface of the pot used for stability and crushing ingredients.",
+  "rim": "- Rim - The upper edge of the pot that facilitates direction control when pouring contents.",
+  "spout": "- Spout - The protruding part designed to direct the flow of liquid being poured.",
+  "side": "- Side - The curved surfaces forming the exterior of the pot, which can be used to pound against surfaces."
+ },
+ "CD case": {
+  "cover": "- Cover - The flat, rigid outer surface of the CD case.",
+  "back": "- Back - The flat, rigid reverse side of the CD case."
+ },
+ "ladle": {
+  "bowl": "- Bowl - The deep, rounded part of the ladle designed to scoop, hold, and pour liquids.",
+  "rim": "- Rim - The outer edge of the ladle's bowl used for scooping and pouring liquids.",
+  "side": "- Side - The curved outer surface of the bowl, which can make contact when pounding."
+ },
+ "shoe": {
+  "sole": "- Sole - The bottom part of the shoe, typically made of hard material, that contacts and interacts with the ground.",
+  "heel": "- Heel - The rear part of the shoe's sole, thicker to elevate and support the back of the foot.",
+  "opening": "- Opening - The area where the foot enters the shoe, potentially channeling small items."
+ },
+ "glass": {
+  "base": "- Base - The bottom part of the glass, typically flat and stable, used for pressing against surfaces.",
+  "rim": "- Rim - The upper circular edge of the glass where liquid exits during pouring.",
+  "bowl": "- Bowl - The hollow, curved part of the glass where substances can be scooped.",
+  "lip": "- Lip - The slightly protruding part of the rim that directs the flow of liquid.",
+  "body": "- Body - The cylindrical or curved part of the glass that allows it to roll when placed on its side."
+ },
+ "stone": {
+  "surface": "- Surface - The flat, outer part of the stone which can be pressed against other objects."
+ },
+ "clipboard": {
+  "base": "- Base - The flat, main surface of the clipboard that supports and holds papers.",
+  "backboard": "- Backboard - The rigid board that supports the paper and provides a firm surface for pressing."
+ },
+ "book": {
+  "cover": "- Cover - The hard or soft outer surface of the book that can be pressed against other objects."
+ },
+ "brick": {
+  "face": "- Face - The large, flat side of a brick used for structure and impact.",
+  "side": "- Side - One of the smaller and narrow flat surfaces of the brick."
+ },
+ "tablet": {
+  "back": "- Back - The rear flat surface that could be pressed against other surfaces."
+ },
+ "bowl": {
+  "base": "- Base - The flat, stable bottom part of the bowl that rests against surfaces and can be used for pounding.",
+  "interior": "- Interior - The inner surface of the bowl where items are placed and can be scooped up.",
+  "rim": "- Rim - The upper edge of the bowl that aids in scooping and directing liquids.",
+  "side": "- Side - The curved surface of the bowl that can be used for pounding."
+ },
+ "meat tenderizer": {
+  "base": "- Base - The bottom part of the tenderizer head, typically flat and used to press down on meat.",
+  "face": "- Face - The flat or textured surface on one side of the tenderizer head that comes into direct contact with the meat.",
+  "head": "- Head - The heavy, solid part usually made of metal used to pound meat. "
+ },
+ "can": {
+  "base": "- Base - The bottom surface of the can, which can be pressed against a surface.",
+  "mouth": "- Mouth - The opening at the top of the can from which contents can be poured out.",
+  "rim": "- Rim - The edge surrounding the mouth that helps direct the flow of liquid.",
+  "body": "- Body - The cylindrical main part of the can, typically made of metal, that touches surfaces and rolls.",
+  "side": "- Side - The curved external surface of the can that makes contact with the ground when rolled."
+ },
+ "cutting board": {
+  "base": "- Base - The bottom side of the cutting board that can be pressed against a surface.",
+  "surface": "- Surface - The flat, top area of the cutting board used for placing items to be lifted."
+ },
+ "mallet": {
+  "head": "- Head - The heavy, typically cylindrical or block-like top part of the mallet used for striking.",
+  "face": "- Face - The flat or slightly rounded, typically circular part at each end of the head that contacts surfaces during use."
+ },
+ "stamp": {
+  "base": "- Base - The bottom part of the stamp that makes contact with the ink and paper.",
+  "face": "- Face - The flat surface on the base where the inked design or letters are engraved."
+ },
+ "mug": {
+  "base": "- Base - The bottom surface of the mug, which can be pressed against a surface.",
+  "rim": "- Rim - The upper circular edge of the mug from which contents are sipped or poured.",
+  "body": "- Body - The main, typically cylindrical part of the mug that comes into contact with surfaces when rolling",
+  "handle": "- Handle - The curved or looped part protruding from the side of the mug, designed for hanging onto hooks or pegs."
+ },
+ "tray": {
+  "base": "- Base - The flat bottom part of the tray used for pressing against surfaces.",
+  "surface": "- Surface - The top flat area where items are placed, which is used to lift items."
+ },
+ "water bottle": {
+  "base": "- Base - The bottom surface of the water bottle, which can be pressed against a surface.",
+  "mouth": "- Mouth - The opening at the top of the water bottle from which liquids are poured out.",
+  "neck": "- Neck - The narrow part that connects the body of the bottle to the mouth, guiding the flow of liquid.",
+  "body": "- Body - The main cylindrical part of the bottle, capable of rolling on its side and usable for pounding objects.",
+  "side": "- Side - The curved surface of the bottle that can make contact with a surface when rolled."
+ },
+ "candle holder": {
+  "base": "- Base - The flat, sturdy bottom part of the candle holder that supports it on a surface.",
+  "plate": "- Plate - The flat, usually circular area where the candle sits, which could also be pressed down.",
+  "body": "- Body - The main structural part of the candle holder, which can be used for pounding if it is solid and heavy."
+ },
+ "jug": {
+  "base": "- Base - The bottom surface of the jug, which can be pressed against a surface.",
+  "rim": "- Rim - The top edge of the jug, useful for pouring liquids and scooping larger quantities when tipped.",
+  "spout": "- Spout - The protruding part at the top designed to direct the flow of liquid."
+ },
+ "saucepan": {
+  "base": "- Base - The flat bottom part of the saucepan that comes into contact with the heat source.",
+  "body": "- Body - The main, usually rounded or slightly tapered part of the saucepan that holds contents.",
+  "rim": "- Rim - The upper edge of the saucepan designed for pouring or scooping out contents.",
+  "spout": "- Spout - A specially designed lip or notch on the rim that facilitates pouring liquids smoothly.",
+  "side": "- Side - The vertical walls of the saucepan that could be used for pounding."
+ },
+ "boot": {
+  "sole": "- Sole - The bottom part of the boot, usually made of rubber or leather, designed for durability and ground contact.",
+  "heel": "- Heel - The rear part of the sole that is elevated and thicker to provide support and durability."
+ },
+ "coffee pot": {
+  "base": "- Base - The bottom part of the coffee pot that can be pressed against a surface.",
+  "spout": "- Spout - The narrow, protruding part at the top used to direct the flow of coffee.",
+  "mouth": "- Mouth - The opening at the top of the coffee pot where coffee is poured out."
+ },
+ "bucket": {
+  "base": "- Base - The bottom surface of the bucket, which can be pressed against a surface.",
+  "rim": "- Rim - The upper edge of the bucket that assists in leveling or scraping materials and directs the flow of liquid when pouring."
+ },
+ "flask": {
+  "base": "- Base - The flat bottom part of the flask that can be pressed against a surface.",
+  "mouth": "- Mouth - The opening at the top of the flask for pouring or scooping out liquids.",
+  "neck": "- Neck - The narrow top part of the flask that leads to the mouth, guiding liquids or materials as they are poured or added."
+ },
+ "kettle": {
+  "base": "- Base - The bottom part of the kettle that can be pressed against a surface.",
+  "spout": "- Spout - The elongated, usually curved projection from which hot liquids are poured out.",
+  "mouth": "- Mouth - The opening at the end of the spout where the liquid exits."
+ },
+ "seashell": {
+  "lip": "- Lip - The curved rim of the seashell's opening, aiding in lifting and scooping.",
+  "apex": "- Apex - The tip or highest point of the shell which can be hooked or grasped to lift.",
+  "bowl": "- Bowl - The concave part of the seashell that can hold small amounts of liquid or sand."
+ },
+ "pitchfork": {
+  "tines": "- Tines - Long, pointed prongs at the end of a pitchfork used for penetrating, scraping, or gathering materials.",
+  "tips": "- Tips - The end points of the tines that can be used to scratch or scrape surfaces.",
+  "head": "- Head - The part of the pitchfork where the tines are attached, aiding in sweeping movements."
+ },
+ "pen": {
+  "tip": "- Tip - The narrow, pointed end of the pen, typically made of metal or hard plastic, used for writing and delivering ink to the surface.",
+  "barrel": "- Barrel - The main cylindrical body of the pen that facilitates rolling and can be used to stir or mix contents.",
+  "ball": "- Ball - The small, spherical component in a ballpoint pen that dispenses ink as it rolls across a surface."
+ },
+ "squeegee": {
+  "blade": "- Blade - The flat, flexible part that directly contacts surfaces to wipe or scrape liquid.",
+  "rubber": "- Rubber - The flexible, resilient strip on the blade's edge that contacts and wipes surfaces clean."
+ },
+ "pin": {
+  "shaft": "- Shaft - The elongated metal part of the pin that can assist in scraping.",
+  "tip": "- Tip - The very end of the point that first makes contact when piercing or poking."
+ },
+ "grater": {
+  "blades": "- Blades - The sharp-edged slots or rows that shred or slice food items.",
+  "surface": "- Surface - The flat area embedded with numerous cutting blades for grating."
+ },
+ "paper clip": {
+  "loop": "- Loop - The curved, continuous sections of the paper clip, each forming a loop-like shape, capable of hooking onto objects.",
+  "end": "- End - The tips of the paper clip that can be manipulated to hook and hang onto surfaces."
+ },
+ "comb": {
+  "teeth": "- Teeth - The series of narrow, pointed elements spaced along the comb's edge used to pass through hair or other materials.",
+  "edge": "- Edge - The side or rim of the comb which can be used to scrape surfaces."
+ },
+ "stylus": {
+  "tip": "- Tip - The narrow, pointed end of the stylus used for precise contact with touchscreens and other surfaces.",
+  "shaft": "- Shaft - The long, straight portion that connects the tip to the rest of the stylus."
+ },
+ "license plate": {
+  "edge": "- Edge - The thin, rigid perimeter of the license plate that could scrape surfaces."
+ },
+ "pencil": {
+  "tip": "- Tip - The sharpened, pointed end of the pencil where graphite is exposed for writing and making contact with surfaces.",
+  "graphite": "- Graphite - The core material inside the pencil used to make marks on paper.",
+  "barrel": "- Barrel - The long, cylindrical main body of the pencil that could be used to stir or mix substances."
+ },
+ "toothpick": {
+  "tip": "- Tip - The pointed end of the toothpick used for penetrating and scraping small areas.",
+  "shaft": "- Shaft - The slender main body of the toothpick which can be used for scraping surfaces."
+ },
+ "hook": {
+  "curve": "- Curve - The rounded, bent part of the hook used to catch, support, or pull objects.",
+  "barb": "- Barb - A backward-facing projection near the point that is designed to lodge in the material being pierced.",
+  "tip": "- Tip - The pointy end of the hook that can enter an object or hang onto small loops."
+ },
+ "coin": {
+  "edge": "- Edge - The thin, outer rim of the coin used for scraping surfaces."
+ },
+ "rake": {
+  "tines": "- Tines - Pointed, spaced projections on the rake's head used to contact and collect leaves, debris, or soil from the ground.",
+  "head": "- Head - The horizontal, flat section where tines are attached, used to drag or gather materials."
+ },
+ "file": {
+  "teeth": "- Teeth - The rough, serrated surface designed for filing or scraping materials.",
+  "edge": "- Edge - The side or rim of the file that can be used to scrape in narrow spaces."
+ },
+ "peeler": {
+  "blade": "- Blade - The sharp, flat component that shaves off the outer layers of fruits or vegetables.",
+  "edge": "- Edge - The sharpened side of the blade that scrapes off surfaces or removes food skin."
+ },
+ "corkscrew": {
+  "spiral": "- Spiral - The coiled metal part that penetrates the cork, which can also scrape off materials.",
+  "tip": "- Tip - The pointed end of the spiral used to initiate piercing and scrape small areas of the cork.",
+  "lever": "- Lever - The arm that applies pressure to lift the cork out of the bottle.",
+  "fork": "- Fork - Sometimes found as a two-pronged end used to pry and remove seals or other items."
+ },
+ "needle": {
+  "point": "- Point - The sharp tip of the needle used for piercing through materials and scraping small areas.",
+  "shaft": "- Shaft - The elongated body of the needle which can be used to scrape along surfaces."
+ },
+ "hockey stick": {
+  "blade": "- Blade - The flat, curved end of the hockey stick used to contact and manipulate the puck.",
+  "edge": "- Edge - The bottom sides of the blade that could scrape against surfaces.",
+  "shaft": "- Shaft - The long, main part of the hockey stick, typically made of wood or composite materials."
+ },
+ "screw": {
+  "threads": "- Threads - The spiral ridges around the body of the screw that can scrape against materials.",
+  "tip": "- Tip - The sharp, pointed end of the screw designed to initiate piercing into materials and scrape surfaces."
+ },
+ "card": {
+  "edge": "- Edge - The thin, elongated side of the card used for scraping, pushing, or spreading items.",
+  "corner": "- Corner - The pointed angle where two edges meet, useful for more precise scraping tasks.",
+  "surface": "- Surface - The flat, broad side of the card used to spread substances."
+ },
+ "coconut shell": {
+  "bowl": "- Bowl - The hollow, concave part of the coconut shell that can hold substances.",
+  "interior": "- Interior - The smooth inner surface of the coconut shell used for scooping or holding materials.",
+  "opening": "- Opening - The hole created on the shell to access the inside liquid, allowing it to be poured out."
+ },
+ "hat": {
+  "brim": "- Brim - The horizontal extension around the base of the hat that can catch and direct material or liquid."
+ },
+ "hard hat": {
+  "brim": "- Brim - The horizontal projection extending around the hard hat's circumference, used to direct liquids and scoop materials."
+ },
+ "pliers": {
+  "jaws": "- Jaws - Pincer-like ends of the pliers used for grasping, holding, and applying torque to objects.",
+  "tip": "- Tip - The pointed end of the plier jaws, suitable for poking into small areas.",
+  "pivot": "- Pivot - The central point around which the handles and jaws move, crucial for the transfer of force when applying torque."
+ },
+ "tongs": {
+  "tips": "- Tips - The opposing ends of the tongs used for gripping, mixing, or poking objects.",
+  "prongs": "- Prongs - The pointed or narrowed ends of the tongs used for poking or grabbing items.",
+  "arms": "- Arms - The elongated parts that transfer movement from the handler to the tips to facilitate mixing."
+ },
+ "tweezers": {
+  "tips": "- Tips - Pointed or flat ends of the tweezers used for grasping small objects or precise poking.",
+  "arms": "- Arms - The long parts that converge into the tips, used in pinching to pick up items."
+ },
+ "grabber": {
+  "tongs": "- Tongs - The pair of movable arms at the end of the grabber, which close to grasp items.",
+  "grippers": "- Grippers - The parts on the inner side of the tongs that make contact with and hold the item securely.",
+  "hooks": "- Hooks - Protrusions or indentations on the jaws designed to catch and pull items.",
+  "head": "- Head - The part where the jaws are attached, and which can rotate to apply torque."
+ },
+ "dart": {
+  "tip": "- Tip - The sharp, pointed end of the dart designed to pierce into surfaces."
+ },
+ "skewer": {
+  "tip": "- Tip - The sharp, pointed end of the skewer used to pierce food items or stir mixtures.",
+  "shaft": "- Shaft - The long, straight body of the skewer, which can be rotated or moved to mix ingredients."
+ },
+ "safety pin": {
+  "point": "- Point - The sharp end of the pin that can puncture or pierce materials."
+ },
+ "stilettos": {
+  "heel": "- Heel - The narrow, often pointed part extending from the back of the shoe that can pierce surfaces when pressure is applied.",
+  "tip": "- Tip - The very end of the heel, which is the sharpest point, capable of piercing."
+ },
+ "golf tee": {
+  "tip": "- Tip - The very end of the point, specifically designed to penetrate the soil easily."
+ },
+ "harpoon": {
+  "tip": "- Tip - The sharp point at the end of the harpoon, designed to pierce through targets.",
+  "head": "- Head - The front section of the harpoon, often broader and pointed or bladed, designed for penetration.",
+  "barb": "- Barb - The pointed part at the tip of the harpoon designed to hook into materials, facilitating pulling."
+ },
+ "spear": {
+  "tip": "- Tip - The very end of the spear that first makes contact when piercing."
+ },
+ "drill": {
+  "bit": "- Bit - The pointed, rotating end of the drill that bores into materials.",
+  "tip": "- Tip - The very end of the bit, which is the first part to penetrate the material."
+ },
+ "fish hook": {
+  "point": "- Point - The sharp end of the hook that penetrates the fish's mouth.",
+  "barb": "- Barb - A backward-facing projection near the point that secures the fish by catching onto objects.",
+  "bend": "- Bend - The curved section of the hook that leads to the point and can latch onto items.",
+  "shank": "- Shank - The straight section which connects the looped eye to the bend and point."
+ },
+ "oil can": {
+  "spout": "- Spout - The narrow, tubular part from which oil is directed out of the can.",
+  "nozzle": "- Nozzle - The tapered end of the spout that controls the flow of oil."
+ },
+ "watering can": {
+  "spout": "- Spout - The long, protruding part from which water is directed and poured out.",
+  "mouth": "- Mouth - The open end of the spout where the water exits."
+ },
+ "decanter": {
+  "mouth": "- Mouth - The opening at the top of the decanter where the liquid is poured out.",
+  "neck": "- Neck - The narrow part leading up to the mouth that guides the liquid flow."
+ },
+ "baton": {
+  "tip": "- Tip - The narrow, multifunctional end of the baton opposite the handle, used for pointing, poking, striking, or mixing ingredients.",
+  "shaft": "- Shaft - The main cylindrical part of the baton used for impact, stirring, or mixing."
+ },
+ "drumstick": {
+  "tip": "- Tip - The pointed end of the drumstick bead, which can be used to poke objects.",
+  "bead": "- Bead - The rounded section at the very end of the tip, specifically shaped for striking but can also be used to poke."
+ },
+ "antenna": {
+  "tip": "- Tip - The pointed end of the antenna which can be used to poke."
+ },
+ "matchstick": {
+  "tip": "- Tip - The very end of the matchstick that is the head."
+ },
+ "coat hanger": {
+  "ends": "- Ends - The very tips of the horizontal bar of the coat hanger, which can be pointy and used for poking.",
+  "hook": "- Hook - The curved or angled top part of the coat hanger used for hanging it on rods or hooks."
+ },
+ "rod": {
+  "tip": "- Tip - The narrow, pointed end of the rod specifically used for poking.",
+  "shaft": "- Shaft - The long, cylindrical main part of the rod used for mixing in a container."
+ },
+ "pipe": {
+  "end": "- End - The tip or opening at either extremity of the pipe, suitable for poking or striking against surfaces.",
+  "body": "- Body - The main cylindrical, elongated part of the pipe that facilitates rolling motion and can be used to pound objects.",
+  "surface": "- Surface - The cylindrical outer portion that makes contact with the ground during rolling."
+ },
+ "stirrer": {
+  "tip": "- Tip - The pointed or slightly tapered end of the stirrer which can be used to poke objects.",
+  "shaft": "- Shaft - The long, straight part of the stirrer that is submerged into liquids to agitate and mix them."
+ },
+ "branch": {
+  "tip": "- Tip - The end point of the branch, which is used to poke or prod.",
+  "twig": "- Twig - A smaller offshoot from the main branch suitable for mixing."
+ },
+ "crayon": {
+  "tip": "- Tip - The pointed end of the crayon used for drawing and making marks on surfaces.",
+  "wax": "- Wax - The colored substance composing the body of the crayon, which leaves marks on paper."
+ },
+ "dowel": {
+  "tip": "- Tip - The narrow, pointed part at either end of the dowel, suitable for poking.",
+  "surface": "- Surface - The cylindrical outer part of the dowel that makes contact with other surfaces when rolling.",
+  "body": "- Body - The main elongated part of the dowel which rotates along its axis."
+ },
+ "dumbbell": {
+  "end": "- End - The rounded, solid part at each side of the dumbbell, which can be used to pound objects."
+ },
+ "crowbar": {
+  "end": "- End - The flat, tapered tip of the crowbar used for pounding.",
+  "claw": "- Claw - The curved, forked end of the crowbar used for gripping and pulling nails or prying objects.",
+  "hook": "- Hook - The end opposite the claw, often slightly curved, used to hook onto items for pulling.",
+  "chisel end": "- Chisel End - The flattened, slightly angled end of the crowbar used for inserting into narrow gaps to pry.",
+  "curve": "- Curve - The bent section near one end that increases leverage when prying."
+ },
+ "wrench": {
+  "head": "- Head - The solid end of the wrench used for gripping nuts and bolts and transferring applied force, also capable of pounding.",
+  "jaw": "- Jaw - The adjustable or fixed opening at the end of the wrench used to grip and turn nuts and bolts."
+ },
+ "club": {
+  "head": "- Head - The end of the club typically wider and heavier, used for striking or pounding."
+ },
+ "log": {
+  "end": "- End - The flat, cut surface of the log which can be used to pound against something.",
+  "side": "- Side - The cylindrical outer surface of the log which can be rolled and used to exert force.",
+  "bark": "- Bark - The outermost layer of the log that facilitates rolling when in contact with surfaces."
+ },
+ "gavel": {
+  "head": "- Head - The solid, typically wooden or metal part at the top of the gavel used for striking.",
+  "face": "- Face - The flat end of the head that comes into contact with surfaces to make a sound or indicate authority."
+ },
+ "remote control": {
+  "body": "- Body - The main, typically rectangular part of the remote control, which can be used to pound objects.",
+  "back": "- Back - The flat rear side of the remote control, which can be used for pounding."
+ },
+ "flashlight": {
+  "body": "- Body - The main cylindrical, robust part of the flashlight that can roll on a surface.",
+  "end": "- End - The front end of the flashlight where the light is emitted, often flat or beveled and used for striking.",
+  "barrel": "- Barrel - The long, cylindrical tube that constitutes the main structure of the flashlight, allowing it to roll."
+ },
+ "baseball bat": {
+  "barrel": "- Barrel - The thick part of the bat, typically used for hitting the baseball, which can be used to pound objects.",
+  "end": "- End - The top part of the bat opposite the handle, often capped, which can also be used for pounding."
+ },
+ "rolling pin": {
+  "cylinder": "- Cylinder - The long, cylindrical central body of the rolling pin used to make contact with and flatten dough.",
+  "body": "- Body - The main portion of the rolling pin which is typically made from wood, metal, or plastic and used to exert pressure on dough."
+ },
+ "cricket bat": {
+  "blade": "- Blade - The flat hitting surface typically used for striking the cricket ball.",
+  "back": "- Back - The reverse side of the blade, which can also be used for pounding."
+ },
+ "bowling pin": {
+  "body": "- Body - The main cylindrical part of the bowling pin, used for striking with a bowling ball and capable of rolling."
+ },
+ "cylinder": {
+  "surface": "- Surface - The curved outer side of the cylinder which contacts the ground to roll."
+ },
+ "lipstick": {
+  "body": "- Body - The cylindrical casing of the lipstick, ideal for rolling when placed on its side.",
+  "tip": "- Tip - The exposed part of the lipstick used for application, which can mark or write on surfaces.",
+  "stick": "- Stick - The solid substance inside the casing that is used to apply color to the lips, also capable of writing when pressed against a surface."
+ },
+ "marker": {
+  "body": "- Body - The main cylindrical part of the marker that can roll on surfaces.",
+  "tip": "- Tip - The pointed end of the marker where the ink is released onto the surface."
+ },
+ "roller": {
+  "drum": "- Drum - The cylindrical part of the roller that rotates to flatten surfaces.",
+  "surface": "- Surface - The outer layer of the drum that comes into direct contact with the material being rolled."
+ },
+ "battery": {
+  "side": "- Side - The cylindrical lateral surface of the battery, which can roll along a surface.",
+  "body": "- Body - The main elongated part of the battery that can rotate."
+ },
+ "carabiner": {
+  "gate": "- Gate - The movable arm that opens to allow rope or other items to be hooked and securely holds them once closed.",
+  "spine": "- Spine - The solid, curved backbone of the carabiner offering structural support, can be pulled directly."
+ },
+ "curtain ring": {
+  "loop": "- Loop - The circular or oval part of the ring through which the curtain rod passes."
+ },
+ "grappling hook": {
+  "hook": "- Hook - The curved or angled part that catches onto objects, allowing the grappling hook to pull against them.",
+  "flukes": "- Flukes - The pointed ends of the hook that dig into or grasp surfaces to provide pulling capacity."
+ },
+ "L-bracket": {
+  "flange": "- Flange - One of the flat, perpendicular sections with holes for screws, which could be attached to a surface and used to pull."
+ },
+ "wedge": {
+  "tip": "- Tip - The pointed end of the wedge that is inserted first to split or separate objects.",
+  "edge": "- Edge - The sharp or tapered sides of the wedge designed for penetrating and forcing materials apart."
+ },
+ "straw": {
+  "shaft": "- Shaft - The long, cylindrical part of the straw used to stir or mix contents in a container."
+ },
+ "whisk": {
+  "wires": "- Wires - The long, curved metal strands that loop back to the handle, used for stirring and mixing ingredients.",
+  "loop": "- Loop - The collective shape formed by the wires at the end opposite to the handle, effective in agitating and blending mixtures."
+ },
+ "can opener": {
+  "blade": "- Blade - The sharp part that inserts under the can lid for prying.",
+  "lever": "- Lever - The part that pries the lid open after the blade cuts through."
+ },
+ "bottle opener": {
+  "blade": "- Blade - The flat, thin part of the bottle opener used to wedge under the bottle cap.",
+  "fork": "- Fork - The end part of the bottle opener that fits under the cap to lift it off."
+ },
+ "colander": {
+  "holes": "- Holes - Small openings distributed throughout the body of the colander used to separate solids from liquids or finer particles from coarser ones.",
+  "mesh": "- Mesh - A grid-like structure that can be part of the colander serving the same purpose as the holes."
+ },
+ "strainer": {
+  "mesh": "- Mesh - The fine, net-like fabric or metal structure with tiny holes designed to separate smaller particles from larger ones.",
+  "bowl": "- Bowl - The curved structure that holds the mesh and allows materials to be placed inside for sifting."
+ },
+ "basket": {
+  "base": "- Base - The bottom part of the basket where materials can be sifted.",
+  "weave": "- Weave - The interlaced strands that form the structure of the basket, allowing particles to pass through."
+ }
+}

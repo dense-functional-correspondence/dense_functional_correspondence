@@ -1,0 +1,759 @@
+{
+ "paintbrush": [
+  "brush-with",
+  "poke-with",
+  "write-with"
+ ],
+ "hairbrush": [
+  "brush-with",
+  "pound-with",
+  "sweep-with"
+ ],
+ "toothbrush": [
+  "brush-with",
+  "poke-with",
+  "mix-with"
+ ],
+ "mop": [
+  "brush-with",
+  "sweep-with"
+ ],
+ "broom": [
+  "brush-with",
+  "sweep-with"
+ ],
+ "brush": [
+  "brush-with",
+  "scrape-with",
+  "sweep-with",
+  "spread-with",
+  "mix-with"
+ ],
+ "feather": [
+  "brush-with",
+  "sweep-with"
+ ],
+ "dagger": [
+  "cut-with",
+  "scrape-with",
+  "pierce-with",
+  "peel-with",
+  "pry-with"
+ ],
+ "letter opener": [
+  "cut-with",
+  "scrape-with",
+  "pierce-with",
+  "poke-with",
+  "mix-with"
+ ],
+ "chisel": [
+  "cut-with",
+  "dig-with",
+  "scrape-with",
+  "pierce-with",
+  "peel-with",
+  "wedge-with",
+  "pry-with"
+ ],
+ "cleaver": [
+  "cut-with",
+  "lift-with",
+  "scrape-with",
+  "pound-with",
+  "spread-with"
+ ],
+ "axe": [
+  "cut-with",
+  "pound-with",
+  "wedge-with"
+ ],
+ "razor blade": [
+  "cut-with",
+  "scrape-with"
+ ],
+ "box cutter": [
+  "cut-with",
+  "scrape-with",
+  "pierce-with",
+  "peel-with"
+ ],
+ "machete": [
+  "cut-with",
+  "scrape-with",
+  "pierce-with"
+ ],
+ "saw": [
+  "cut-with"
+ ],
+ "credit card": [
+  "cut-with",
+  "press-with",
+  "scrape-with",
+  "sweep-with",
+  "spread-with"
+ ],
+ "scalpel": [
+  "cut-with",
+  "scrape-with",
+  "pierce-with",
+  "peel-with",
+  "mix-with"
+ ],
+ "spatula": [
+  "cut-with",
+  "press-with",
+  "lift-with",
+  "scrape-with",
+  "pound-with",
+  "sweep-with",
+  "spread-with",
+  "wedge-with",
+  "mix-with",
+  "pry-with"
+ ],
+ "ice skate": [
+  "cut-with"
+ ],
+ "knife": [
+  "cut-with",
+  "dig-with",
+  "lift-with",
+  "scrape-with",
+  "pierce-with",
+  "peel-with",
+  "spread-with",
+  "mix-with",
+  "pry-with"
+ ],
+ "pizza cutter": [
+  "cut-with"
+ ],
+ "scissors": [
+  "cut-with",
+  "scrape-with",
+  "pierce-with"
+ ],
+ "key": [
+  "cut-with",
+  "dig-with",
+  "scrape-with",
+  "poke-with",
+  "pry-with"
+ ],
+ "CD": [
+  "cut-with",
+  "scrape-with"
+ ],
+ "ruler": [
+  "cut-with",
+  "dig-with",
+  "lift-with",
+  "scrape-with",
+  "spread-with",
+  "mix-with",
+  "pry-with"
+ ],
+ "sword": [
+  "cut-with",
+  "pierce-with"
+ ],
+ "fork": [
+  "dig-with",
+  "lift-with",
+  "scrape-with",
+  "pierce-with",
+  "poke-with",
+  "sweep-with",
+  "mix-with",
+  "pry-with"
+ ],
+ "shovel": [
+  "dig-with",
+  "lift-with",
+  "scrape-with",
+  "scoop-with",
+  "pound-with",
+  "sweep-with",
+  "pry-with"
+ ],
+ "spoon": [
+  "dig-with",
+  "press-with",
+  "lift-with",
+  "scrape-with",
+  "scoop-with",
+  "poke-with",
+  "pound-with",
+  "spread-with",
+  "mix-with",
+  "pry-with"
+ ],
+ "pickaxe": [
+  "dig-with",
+  "scrape-with",
+  "pierce-with",
+  "poke-with",
+  "pound-with",
+  "pry-with"
+ ],
+ "trowel": [
+  "dig-with",
+  "lift-with",
+  "scrape-with",
+  "scoop-with",
+  "sweep-with",
+  "spread-with"
+ ],
+ "plow": [
+  "dig-with"
+ ],
+ "chopsticks": [
+  "dig-with",
+  "pick up-with",
+  "pierce-with",
+  "poke-with",
+  "mix-with",
+  "pry-with"
+ ],
+ "screwdriver": [
+  "dig-with",
+  "scrape-with",
+  "pierce-with",
+  "poke-with",
+  "pound-with",
+  "mix-with",
+  "pry-with"
+ ],
+ "hoe": [
+  "dig-with",
+  "press-with",
+  "scrape-with",
+  "sweep-with",
+  "pull-with"
+ ],
+ "stick": [
+  "dig-with",
+  "poke-with"
+ ],
+ "awl": [
+  "dig-with",
+  "scrape-with",
+  "pierce-with",
+  "poke-with",
+  "mix-with"
+ ],
+ "nail": [
+  "dig-with",
+  "scrape-with",
+  "pierce-with",
+  "poke-with"
+ ],
+ "paddle": [
+  "dig-with",
+  "press-with",
+  "lift-with",
+  "scrape-with",
+  "sweep-with",
+  "mix-with"
+ ],
+ "dustpan": [
+  "dig-with",
+  "lift-with",
+  "scoop-with"
+ ],
+ "lid": [
+  "press-with",
+  "lift-with",
+  "scrape-with"
+ ],
+ "teapot": [
+  "press-with",
+  "pour-with"
+ ],
+ "pan": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "pound-with"
+ ],
+ "plate": [
+  "press-with",
+  "lift-with"
+ ],
+ "plank": [
+  "press-with"
+ ],
+ "smartphone": [
+  "press-with"
+ ],
+ "bottle": [
+  "press-with",
+  "pour-with",
+  "pound-with",
+  "roll-onto"
+ ],
+ "jar": [
+  "press-with",
+  "pour-with",
+  "pound-with",
+  "roll-onto"
+ ],
+ "cup": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "roll-onto"
+ ],
+ "pestle": [
+  "press-with",
+  "pound-with"
+ ],
+ "hammer": [
+  "press-with",
+  "pound-with",
+  "pull-with"
+ ],
+ "pot": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "pound-with"
+ ],
+ "CD case": [
+  "press-with"
+ ],
+ "ladle": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "pound-with",
+  "mix-with"
+ ],
+ "shoe": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "pound-with"
+ ],
+ "glass": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "roll-onto"
+ ],
+ "stone": [
+  "press-with"
+ ],
+ "clipboard": [
+  "press-with",
+  "lift-with"
+ ],
+ "book": [
+  "press-with"
+ ],
+ "brick": [
+  "press-with",
+  "pound-with"
+ ],
+ "tablet": [
+  "press-with"
+ ],
+ "bowl": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "pound-with"
+ ],
+ "meat tenderizer": [
+  "press-with",
+  "pound-with"
+ ],
+ "can": [
+  "press-with",
+  "pour-with",
+  "pound-with",
+  "roll-onto"
+ ],
+ "cutting board": [
+  "press-with",
+  "lift-with"
+ ],
+ "mallet": [
+  "press-with",
+  "pound-with"
+ ],
+ "stamp": [
+  "press-with"
+ ],
+ "mug": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "roll-onto",
+  "hang-onto"
+ ],
+ "tray": [
+  "press-with",
+  "lift-with"
+ ],
+ "water bottle": [
+  "press-with",
+  "pour-with",
+  "pound-with",
+  "roll-onto"
+ ],
+ "candle holder": [
+  "press-with",
+  "pound-with"
+ ],
+ "jug": [
+  "press-with",
+  "scoop-with",
+  "pour-with"
+ ],
+ "saucepan": [
+  "press-with",
+  "scoop-with",
+  "pour-with",
+  "pound-with"
+ ],
+ "boot": [
+  "press-with",
+  "pound-with"
+ ],
+ "coffee pot": [
+  "press-with",
+  "pour-with"
+ ],
+ "bucket": [
+  "press-with",
+  "scoop-with",
+  "pour-with"
+ ],
+ "flask": [
+  "press-with",
+  "scoop-with",
+  "pour-with"
+ ],
+ "kettle": [
+  "press-with",
+  "pour-with"
+ ],
+ "seashell": [
+  "lift-with",
+  "scoop-with"
+ ],
+ "pitchfork": [
+  "scrape-with",
+  "pierce-with",
+  "sweep-with"
+ ],
+ "pen": [
+  "scrape-with",
+  "pierce-with",
+  "roll-onto",
+  "write-with",
+  "mix-with"
+ ],
+ "squeegee": [
+  "scrape-with",
+  "sweep-with"
+ ],
+ "pin": [
+  "scrape-with",
+  "pierce-with",
+  "poke-with"
+ ],
+ "grater": [
+  "scrape-with"
+ ],
+ "paper clip": [
+  "scrape-with",
+  "hang-onto"
+ ],
+ "comb": [
+  "scrape-with"
+ ],
+ "stylus": [
+  "scrape-with",
+  "pierce-with",
+  "poke-with",
+  "write-with",
+  "mix-with"
+ ],
+ "license plate": [
+  "scrape-with"
+ ],
+ "pencil": [
+  "scrape-with",
+  "pierce-with",
+  "poke-with",
+  "write-with",
+  "mix-with"
+ ],
+ "toothpick": [
+  "scrape-with",
+  "pierce-with",
+  "poke-with"
+ ],
+ "hook": [
+  "scrape-with",
+  "pierce-with",
+  "hang-onto",
+  "pull-with"
+ ],
+ "coin": [
+  "scrape-with"
+ ],
+ "rake": [
+  "scrape-with",
+  "sweep-with"
+ ],
+ "file": [
+  "scrape-with"
+ ],
+ "peeler": [
+  "scrape-with",
+  "peel-with"
+ ],
+ "corkscrew": [
+  "scrape-with",
+  "pierce-with",
+  "pry-with"
+ ],
+ "needle": [
+  "scrape-with",
+  "pierce-with",
+  "poke-with"
+ ],
+ "hockey stick": [
+  "scrape-with",
+  "pound-with",
+  "sweep-with"
+ ],
+ "screw": [
+  "scrape-with",
+  "pierce-with"
+ ],
+ "card": [
+  "scrape-with",
+  "sweep-with",
+  "spread-with"
+ ],
+ "coconut shell": [
+  "scoop-with",
+  "pour-with"
+ ],
+ "hat": [
+  "scoop-with",
+  "pour-with"
+ ],
+ "hard hat": [
+  "scoop-with",
+  "pour-with"
+ ],
+ "pliers": [
+  "pick up-with",
+  "poke-with",
+  "apply torque-with"
+ ],
+ "tongs": [
+  "pick up-with",
+  "poke-with",
+  "mix-with"
+ ],
+ "tweezers": [
+  "pick up-with",
+  "poke-with"
+ ],
+ "grabber": [
+  "pick up-with",
+  "pull-with",
+  "apply torque-with"
+ ],
+ "dart": [
+  "pierce-with"
+ ],
+ "skewer": [
+  "pierce-with",
+  "poke-with",
+  "mix-with"
+ ],
+ "safety pin": [
+  "pierce-with"
+ ],
+ "stilettos": [
+  "pierce-with"
+ ],
+ "golf tee": [
+  "pierce-with"
+ ],
+ "harpoon": [
+  "pierce-with",
+  "pull-with"
+ ],
+ "spear": [
+  "pierce-with"
+ ],
+ "drill": [
+  "pierce-with"
+ ],
+ "fish hook": [
+  "pierce-with",
+  "hang-onto",
+  "pull-with"
+ ],
+ "oil can": [
+  "pour-with"
+ ],
+ "watering can": [
+  "pour-with"
+ ],
+ "decanter": [
+  "pour-with"
+ ],
+ "baton": [
+  "poke-with",
+  "pound-with",
+  "mix-with"
+ ],
+ "drumstick": [
+  "poke-with"
+ ],
+ "antenna": [
+  "poke-with"
+ ],
+ "matchstick": [
+  "poke-with"
+ ],
+ "coat hanger": [
+  "poke-with",
+  "hang-onto",
+  "pull-with"
+ ],
+ "rod": [
+  "poke-with",
+  "mix-with"
+ ],
+ "pipe": [
+  "poke-with",
+  "pound-with",
+  "roll-onto"
+ ],
+ "stirrer": [
+  "poke-with",
+  "mix-with"
+ ],
+ "branch": [
+  "poke-with",
+  "mix-with"
+ ],
+ "crayon": [
+  "poke-with",
+  "write-with"
+ ],
+ "dowel": [
+  "poke-with",
+  "roll-onto"
+ ],
+ "dumbbell": [
+  "pound-with"
+ ],
+ "crowbar": [
+  "pound-with",
+  "pull-with",
+  "pry-with"
+ ],
+ "wrench": [
+  "pound-with",
+  "apply torque-with",
+  "pry-with"
+ ],
+ "club": [
+  "pound-with"
+ ],
+ "log": [
+  "pound-with",
+  "roll-onto"
+ ],
+ "gavel": [
+  "pound-with"
+ ],
+ "remote control": [
+  "pound-with"
+ ],
+ "flashlight": [
+  "pound-with",
+  "roll-onto"
+ ],
+ "baseball bat": [
+  "pound-with"
+ ],
+ "rolling pin": [
+  "pound-with",
+  "roll-onto"
+ ],
+ "cricket bat": [
+  "pound-with"
+ ],
+ "bowling pin": [
+  "pound-with",
+  "roll-onto"
+ ],
+ "cylinder": [
+  "roll-onto"
+ ],
+ "lipstick": [
+  "roll-onto",
+  "write-with"
+ ],
+ "marker": [
+  "roll-onto",
+  "write-with",
+  "mix-with"
+ ],
+ "roller": [
+  "roll-onto"
+ ],
+ "battery": [
+  "roll-onto"
+ ],
+ "carabiner": [
+  "hang-onto",
+  "pull-with"
+ ],
+ "curtain ring": [
+  "hang-onto"
+ ],
+ "grappling hook": [
+  "pull-with"
+ ],
+ "L-bracket": [
+  "pull-with"
+ ],
+ "wedge": [
+  "wedge-with"
+ ],
+ "straw": [
+  "mix-with"
+ ],
+ "whisk": [
+  "mix-with"
+ ],
+ "can opener": [
+  "pry-with"
+ ],
+ "bottle opener": [
+  "pry-with"
+ ],
+ "colander": [
+  "sift-with"
+ ],
+ "strainer": [
+  "sift-with"
+ ],
+ "basket": [
+  "sift-with"
+ ]
+}

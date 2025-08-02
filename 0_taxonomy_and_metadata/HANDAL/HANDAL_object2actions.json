@@ -1,0 +1,78 @@
+{
+    "fork": [
+        "dig-with",
+        "lift-with",
+        "scrape-with",
+        "pierce-with",
+        "poke-with",
+        "pry-with"
+    ],
+    "spoon": [
+        "dig-with",
+        "press-with",
+        "lift-with",
+        "scrape-with",
+        "poke-with",
+        "spread-with",
+        "pry-with"
+    ],
+    "screwdriver": [
+        "dig-with",
+        "scrape-with",
+        "pierce-with",
+        "poke-with",
+        "pry-with"
+    ],
+    "pan": [
+        "press-with",
+        "scoop-with",
+        "pour-with",
+        "pound-with"
+    ],
+    "measuring_cup": [
+        "press-with",
+        "scoop-with",
+        "pour-with"
+    ],
+    "mug": [
+        "press-with",
+        "scoop-with",
+        "pour-with",
+        "pound-with"
+    ],
+    "pot": [
+        "press-with",
+        "scoop-with",
+        "pound-with"
+    ],
+    "ladle": [
+        "press-with",
+        "scoop-with",
+        "pour-with"
+    ],
+    "spatula": [
+        "press-with",
+        "lift-with",
+        "scrape-with",
+        "spread-with",
+        "pry-with"
+    ],
+    "strainer": [
+        "lift-with",
+        "sift-with"
+    ],
+    "hammer": [
+        "scrape-with",
+        "pound-with",
+        "pull-with",
+        "pry-with"
+    ],
+    "fixed_joint_pliers": [
+        "pierce-with",
+        "poke-with"
+    ],
+    "ratchet": [
+        "poke-with",
+        "pull-with"
+    ]
+}

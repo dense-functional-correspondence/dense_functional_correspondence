@@ -1,0 +1,730 @@
+{
+ "paintbrush": {
+  "bristles": false,
+  "head": false,
+  "tip": false
+ },
+ "hairbrush": {
+  "bristles": false,
+  "pad": false,
+  "back": false,
+  "head": false
+ },
+ "toothbrush": {
+  "bristles": false,
+  "head": false
+ },
+ "mop": {
+  "bristles": false,
+  "head": false
+ },
+ "broom": {
+  "bristles": false,
+  "head": false
+ },
+ "brush": {
+  "bristles": false,
+  "head": false
+ },
+ "feather": {
+  "barb": false,
+  "vane": false
+ },
+ "dagger": {
+  "blade": false,
+  "edge": true,
+  "tip": false,
+  "spine": false
+ },
+ "letter opener": {
+  "blade": false,
+  "edge": true,
+  "tip": false
+ },
+ "chisel": {
+  "blade": false,
+  "edge": true,
+  "tip": false
+ },
+ "cleaver": {
+  "blade": false,
+  "edge": true,
+  "back": false,
+  "side": false
+ },
+ "axe": {
+  "blade": false,
+  "edge": true,
+  "back": false,
+  "head": false
+ },
+ "razor blade": {
+  "blade": false,
+  "edge": true,
+  "corner": false
+ },
+ "box cutter": {
+  "blade": false,
+  "edge": true,
+  "tip": false
+ },
+ "machete": {
+  "blade": false,
+  "edge": true,
+  "tip": false
+ },
+ "saw": {
+  "blade": false,
+  "teeth": true
+ },
+ "credit card": {
+  "edge": true,
+  "surface": false,
+  "corner": false
+ },
+ "scalpel": {
+  "blade": false,
+  "edge": true,
+  "tip": false,
+  "shaft": false
+ },
+ "spatula": {
+  "edge": true,
+  "blade": false,
+  "head": false,
+  "tip": false
+ },
+ "ice skate": {
+  "blade": false,
+  "edge": true
+ },
+ "knife": {
+  "blade": false,
+  "edge": true,
+  "tip": false,
+  "spine": false,
+  "back": false
+ },
+ "pizza cutter": {
+  "blade": false,
+  "edge": true
+ },
+ "scissors": {
+  "edges": true,
+  "blade": false,
+  "point": false
+ },
+ "key": {
+  "edge": true,
+  "blade": false,
+  "tip": false
+ },
+ "CD": {
+  "edge": true
+ },
+ "ruler": {
+  "edge": true,
+  "end": false,
+  "corner": false,
+  "surface": false
+ },
+ "sword": {
+  "blade": false,
+  "edge": true,
+  "point": false
+ },
+ "fork": {
+  "tines": false,
+  "tip": false,
+  "edge": true,
+  "neck": false,
+  "shaft": false
+ },
+ "shovel": {
+  "blade": false,
+  "tip": false,
+  "scoop": false,
+  "edge": true,
+  "back": false
+ },
+ "spoon": {
+  "bowl": false,
+  "tip": false,
+  "back": false,
+  "rim": true
+ },
+ "pickaxe": {
+  "head": false,
+  "blade": false,
+  "tip": false,
+  "back": false,
+  "adze": false
+ },
+ "trowel": {
+  "blade": false,
+  "tip": false,
+  "scoop": false,
+  "edge": true
+ },
+ "plow": {
+  "blade": false,
+  "share": true,
+  "moldboard": false
+ },
+ "chopsticks": {
+  "tip": false,
+  "shaft": false
+ },
+ "screwdriver": {
+  "shaft": false,
+  "tip": false
+ },
+ "hoe": {
+  "blade": false,
+  "face": false,
+  "edge": true
+ },
+ "stick": {
+  "tip": false
+ },
+ "awl": {
+  "tip": false,
+  "shaft": false,
+  "blade": false,
+  "spike": false
+ },
+ "nail": {
+  "tip": false,
+  "shank": false
+ },
+ "paddle": {
+  "blade": false,
+  "tip": false,
+  "face": false,
+  "edge": true
+ },
+ "dustpan": {
+  "scoop": false,
+  "lip": true,
+  "pan": false
+ },
+ "lid": {
+  "underside": false,
+  "top": false,
+  "edge": true
+ },
+ "teapot": {
+  "base": false,
+  "spout": false
+ },
+ "pan": {
+  "base": false,
+  "bowl": false,
+  "rim": true,
+  "spout": false,
+  "side": false
+ },
+ "plate": {
+  "base": false,
+  "rim": true,
+  "surface": false
+ },
+ "plank": {
+  "surface": false
+ },
+ "smartphone": {
+  "back": false
+ },
+ "bottle": {
+  "base": false,
+  "mouth": true,
+  "neck": false,
+  "body": false,
+  "side": false
+ },
+ "jar": {
+  "base": false,
+  "mouth": true,
+  "neck": false,
+  "body": false
+ },
+ "cup": {
+  "base": false,
+  "bowl": false,
+  "rim": true,
+  "lip": true,
+  "side": false
+ },
+ "pestle": {
+  "head": false,
+  "body": false
+ },
+ "hammer": {
+  "head": false,
+  "face": false,
+  "claw": false
+ },
+ "pot": {
+  "base": false,
+  "rim": true,
+  "spout": false,
+  "side": false
+ },
+ "CD case": {
+  "cover": false,
+  "back": false
+ },
+ "ladle": {
+  "bowl": false,
+  "rim": true,
+  "side": false
+ },
+ "shoe": {
+  "sole": false,
+  "heel": false,
+  "opening": true
+ },
+ "glass": {
+  "base": false,
+  "rim": true,
+  "bowl": false,
+  "lip": true,
+  "body": false
+ },
+ "stone": {
+  "surface": false
+ },
+ "clipboard": {
+  "base": false,
+  "backboard": false
+ },
+ "book": {
+  "cover": false
+ },
+ "brick": {
+  "face": false,
+  "side": false
+ },
+ "tablet": {
+  "back": false
+ },
+ "bowl": {
+  "base": false,
+  "interior": false,
+  "rim": true,
+  "side": false
+ },
+ "meat tenderizer": {
+  "base": false,
+  "face": false,
+  "head": false
+ },
+ "can": {
+  "base": false,
+  "mouth": true,
+  "rim": true,
+  "body": false,
+  "side": false
+ },
+ "cutting board": {
+  "base": false,
+  "surface": false
+ },
+ "mallet": {
+  "head": false,
+  "face": false
+ },
+ "stamp": {
+  "base": false,
+  "face": false
+ },
+ "mug": {
+  "base": false,
+  "rim": true,
+  "body": false,
+  "handle": false
+ },
+ "tray": {
+  "base": false,
+  "surface": false
+ },
+ "water bottle": {
+  "base": false,
+  "mouth": true,
+  "neck": false,
+  "body": false,
+  "side": false
+ },
+ "candle holder": {
+  "base": false,
+  "plate": false,
+  "body": false
+ },
+ "jug": {
+  "base": false,
+  "rim": true,
+  "spout": false
+ },
+ "saucepan": {
+  "base": false,
+  "body": false,
+  "rim": true,
+  "spout": false,
+  "side": false
+ },
+ "boot": {
+  "sole": false,
+  "heel": false
+ },
+ "coffee pot": {
+  "base": false,
+  "spout": false,
+  "mouth": true
+ },
+ "bucket": {
+  "base": false,
+  "rim": true
+ },
+ "flask": {
+  "base": false,
+  "mouth": true,
+  "neck": false
+ },
+ "kettle": {
+  "base": false,
+  "spout": false,
+  "mouth": true
+ },
+ "seashell": {
+  "lip": true,
+  "apex": false,
+  "bowl": false
+ },
+ "pitchfork": {
+  "tines": false,
+  "tips": false,
+  "head": false
+ },
+ "pen": {
+  "tip": false,
+  "barrel": false,
+  "ball": false
+ },
+ "squeegee": {
+  "blade": true,
+  "rubber": false
+ },
+ "pin": {
+  "shaft": false,
+  "tip": false
+ },
+ "grater": {
+  "blades": false,
+  "surface": false
+ },
+ "paper clip": {
+  "loop": false,
+  "end": false
+ },
+ "comb": {
+  "teeth": false,
+  "edge": true
+ },
+ "stylus": {
+  "tip": false,
+  "shaft": false
+ },
+ "license plate": {
+  "edge": true
+ },
+ "pencil": {
+  "tip": false,
+  "graphite": false,
+  "barrel": false
+ },
+ "toothpick": {
+  "tip": false,
+  "shaft": false
+ },
+ "hook": {
+  "curve": false,
+  "barb": false,
+  "tip": false
+ },
+ "coin": {
+  "edge": true
+ },
+ "rake": {
+  "tines": false,
+  "head": false
+ },
+ "file": {
+  "teeth": false,
+  "edge": true
+ },
+ "peeler": {
+  "blade": false,
+  "edge": true
+ },
+ "corkscrew": {
+  "spiral": false,
+  "tip": false,
+  "lever": false,
+  "fork": false
+ },
+ "needle": {
+  "point": false,
+  "shaft": false
+ },
+ "hockey stick": {
+  "blade": false,
+  "edge": true,
+  "shaft": false
+ },
+ "screw": {
+  "threads": false,
+  "tip": false
+ },
+ "card": {
+  "edge": true,
+  "corner": false,
+  "surface": false
+ },
+ "coconut shell": {
+  "bowl": false,
+  "interior": false,
+  "opening": true
+ },
+ "hat": {
+  "brim": true
+ },
+ "hard hat": {
+  "brim": true
+ },
+ "pliers": {
+  "jaws": false,
+  "tip": false,
+  "pivot": false
+ },
+ "tongs": {
+  "tips": false,
+  "prongs": false,
+  "arms": false
+ },
+ "tweezers": {
+  "tips": false,
+  "arms": false
+ },
+ "grabber": {
+  "tongs": false,
+  "grippers": false,
+  "hooks": false,
+  "head": false
+ },
+ "dart": {
+  "tip": false
+ },
+ "skewer": {
+  "tip": false,
+  "shaft": false
+ },
+ "safety pin": {
+  "point": false
+ },
+ "stilettos": {
+  "heel": false,
+  "tip": false
+ },
+ "golf tee": {
+  "tip": false
+ },
+ "harpoon": {
+  "tip": false,
+  "head": false,
+  "barb": false
+ },
+ "spear": {
+  "tip": false
+ },
+ "drill": {
+  "bit": false,
+  "tip": false
+ },
+ "fish hook": {
+  "point": false,
+  "barb": false,
+  "bend": false,
+  "shank": false
+ },
+ "oil can": {
+  "spout": false,
+  "nozzle": false
+ },
+ "watering can": {
+  "spout": false,
+  "mouth": true
+ },
+ "decanter": {
+  "mouth": true,
+  "neck": false
+ },
+ "baton": {
+  "tip": false,
+  "shaft": false
+ },
+ "drumstick": {
+  "tip": false,
+  "bead": false
+ },
+ "antenna": {
+  "tip": false
+ },
+ "matchstick": {
+  "tip": false
+ },
+ "coat hanger": {
+  "ends": false,
+  "hook": false
+ },
+ "rod": {
+  "tip": false,
+  "shaft": false
+ },
+ "pipe": {
+  "end": false,
+  "body": false,
+  "surface": false
+ },
+ "stirrer": {
+  "tip": false,
+  "shaft": false
+ },
+ "branch": {
+  "tip": false,
+  "twig": false
+ },
+ "crayon": {
+  "tip": false,
+  "wax": false
+ },
+ "dowel": {
+  "tip": false,
+  "surface": false,
+  "body": false
+ },
+ "dumbbell": {
+  "end": false
+ },
+ "crowbar": {
+  "end": false,
+  "claw": false,
+  "hook": false,
+  "chisel end": false,
+  "curve": false
+ },
+ "wrench": {
+  "head": false,
+  "jaw": false
+ },
+ "club": {
+  "head": false
+ },
+ "log": {
+  "end": false,
+  "side": false,
+  "bark": false
+ },
+ "gavel": {
+  "head": false,
+  "face": false
+ },
+ "remote control": {
+  "body": false,
+  "back": false
+ },
+ "flashlight": {
+  "body": false,
+  "end": false,
+  "barrel": false
+ },
+ "baseball bat": {
+  "barrel": false,
+  "end": false
+ },
+ "rolling pin": {
+  "cylinder": false,
+  "body": false
+ },
+ "cricket bat": {
+  "blade": false,
+  "back": false
+ },
+ "bowling pin": {
+  "body": false
+ },
+ "cylinder": {
+  "surface": false
+ },
+ "lipstick": {
+  "body": false,
+  "tip": false,
+  "stick": false
+ },
+ "marker": {
+  "body": false,
+  "tip": false
+ },
+ "roller": {
+  "drum": false,
+  "surface": false
+ },
+ "battery": {
+  "side": false,
+  "body": false
+ },
+ "carabiner": {
+  "gate": false,
+  "spine": false
+ },
+ "curtain ring": {
+  "loop": false
+ },
+ "grappling hook": {
+  "hook": false,
+  "flukes": false
+ },
+ "L-bracket": {
+  "flange": false
+ },
+ "wedge": {
+  "tip": false,
+  "edge": true
+ },
+ "straw": {
+  "shaft": false
+ },
+ "whisk": {
+  "wires": false,
+  "loop": false
+ },
+ "can opener": {
+  "blade": false,
+  "lever": false
+ },
+ "bottle opener": {
+  "blade": false,
+  "fork": false
+ },
+ "colander": {
+  "holes": false,
+  "mesh": false
+ },
+ "strainer": {
+  "mesh": false,
+  "bowl": false
+ },
+ "basket": {
+  "base": false,
+  "weave": false
+ }
+}

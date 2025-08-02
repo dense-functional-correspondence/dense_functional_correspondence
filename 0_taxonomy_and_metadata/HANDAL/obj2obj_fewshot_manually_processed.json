@@ -1,0 +1,218 @@
+{
+ "fork": {
+  "dig-with": [
+   "- Tines - The long, pointed prongs at the end of the fork used for piercing and digging into food.  ",
+   "- Head - The flat section that holds the tines together and assists in digging into substances."
+  ],
+  "lift-with": [
+   "- Tines - The prongs of the fork used to lift and hold food.  ",
+   "- Head - The upper part of the fork where the tines are connected, used to slide under and lift food."
+  ],
+  "scrape-with": [
+   "- Tines - The long, thin projections typically used for piercing, which can also be used to scrape surfaces.",
+   "- Edge - The side of the tines which can be used for scraping actions."
+  ],
+  "pierce-with": [
+   "- Tines - The long, thin projections from the head of the fork used to pierce food items.",
+   "- Prongs - Another term for tines, which are sharp enough to impale food effectively."
+  ],
+  "poke-with": [
+   "- Tines - The long, thin protrusions from the head of the fork used for piercing food.",
+   "- Tip - The pointed end of each tine designed to penetrate into items."
+  ],
+  "pry-with": [
+   "- Tines - The long, thin, pointed parts of the fork used for prying open items.",
+   "- Neck - The narrow section connecting the handle to the head of the fork, providing leverage for prying."
+  ]
+ },
+ "spoon": {
+  "dig-with": [
+   "- Bowl - The rounded, concave part of the spoon used for scooping or digging into materials.",
+   "- Tip - The pointy end of the bowl, effective for piercing into soft substances when digging."
+  ],
+  "press-with": [
+   "- Bowl - The curved, concave part of the spoon used for pressing down or scooping.",
+   "- Back - The flat, outer surface of the spoon bowl, useful for pressing against flat substances."
+  ],
+  "lift-with": [
+   "- Bowl - The concave part of the spoon used to scoop and lift substances.",
+   "- Tip - The end part of the bowl opposite to the handle, which can slide underneath substances to lift them."
+  ],
+  "scrape-with": [
+   "- Bowl - The curved, concave part of the spoon used for scraping surfaces.",
+   "- Edge - The rim of the spoon's bowl, useful for scraping off materials."
+  ],
+  "poke-with": [
+   "- Tip - The pointed end of the spoon's bowl, which can be used to poke.",
+   "- Bowl - The curved, hollow part of the spoon, which can poke into soft substances."
+  ],
+  "spread-with": [
+   "- Bowl - The rounded, concave part of the spoon used for spreading substances.",
+   "- Back - The flat, reverse side of the bowl, which can also be used to spread."
+  ],
+  "pry-with": [
+   "- Bowl - The rounded, concave part of the spoon used for scooping or prying.",
+   "- Tip - The farthest end of the bowl, often used to wedge and pry."
+  ]
+ },
+ "screwdriver": {
+  "dig-with": [
+   "- Shaft - The long, narrow part that extends from the handle to the tip.",
+   "- Tip - The pointed end of the screwdriver used for digging into materials."
+  ],
+  "scrape-with": [
+   "- Tip - The flat or slightly tapered end of the screwdriver used for inserting into screw heads, which can also scrape surfaces.",
+   "- Shaft - The long, metal part between the handle and the tip that can be used to scrape materials."
+  ],
+  "pierce-with": [
+   "- Tip - The pointed end of the screwdriver used for inserting into screw heads or piercing through materials.",
+   "- Blade - The flat, narrow part extending from the handle to the tip, which can also be used for piercing if it is thin and sturdy enough."
+  ],
+  "poke-with": [
+   "- Tip - The narrow, pointed end of the screwdriver used for inserting into slots or small recesses.",
+   "- Shaft - The long, cylindrical part that connects the handle to the tip, which can be used to poke."
+  ],
+  "pry-with": [
+   "- Shaft - The long, metal part extending from the handle to the tip, used for leverage.",
+   "- Tip - The flat or slightly curved end of the screwdriver, which can be inserted into narrow spaces to pry."
+  ]
+ },
+ "pan": {
+  "press-with": [
+   "- Base - The flat, bottom part of the pan which comes in contact with the heat source."
+  ],
+  "scoop-with": [
+    "- Rim - The upper edge of the pan, which can be used to scoop."
+  ],
+  "pour-with": [
+   "- Lip - The rim or edge of the pan that curves slightly outward for controlled pouring.",
+   "- Spout - A specially designed notch or extension on the rim to facilitate pouring without dripping."
+  ],
+  "pound-with": [
+   "- Base - The bottom part of the pan, typically flat and used for cooking, which can pound items flat.",
+   "- Side - The vertical or slightly sloped surfaces extending from the base to the rim, which can also be used for pounding."
+  ]
+ },
+ "measuring_cup": {
+  "press-with": [
+   "- Base - The bottom surface of the measuring cup, which can be pressed against a surface."
+  ],
+  "scoop-with": [
+   "- Bowl - The open, hollow part of the measuring cup used to contain and scoop materials.",
+   "- Rim - The edge of the bowl that helps in leveling off the scooped materials."
+  ],
+  "pour-with": [
+   "- Spout - The protruding part at the rim, shaped specifically to direct the flow of liquids.",
+   "- Lip - The edge of the cup's rim that helps control the pour when a spout is not present."
+  ]
+ },
+ "mug": {
+  "press-with": [
+   "- Base - The bottom part of the mug, which can be pressed against a surface."
+  ],
+  "scoop-with": [
+   "- Rim - The upper edge of the mug which can help in scooping materials."
+  ],
+  "pour-with": [
+   "- Rim - The upper edge of the mug where liquid is poured out.",
+   "- Mouth - The opening at the top of the mug from which beverages are poured."
+  ],
+  "pound-with": [
+   "- Base - The flat, bottom part of the mug, which makes contact with surfaces.",
+   "- Body - The cylindrical or slightly tapered main part of the mug where drinks are held."
+  ]
+ },
+ "pot": {
+  "press-with": [
+   "- Base - The bottom surface of the pot, which can be pressed against a surface."
+  ],
+  "scoop-with": [
+   "- Rim - The upper edge of the pot, which can scoop up materials when tilted."
+  ],
+  "pound-with": [
+   "- Base - The bottom part of the pot, generally flat and sturdy, used to pound against surfaces.",
+   "- Side - The cylindrical outer surface of the pot, which can be used to strike against items."
+  ]
+ },
+ "ladle": {
+  "press-with": [
+   "- Bowl - The deep, curved part of the ladle used to scoop and hold liquids.",
+   "- Base - The bottom surface of the bowl, which can be pressed against a surface."
+  ],
+  "scoop-with": [
+   "- Bowl - The deep, curved part of the ladle used to scoop up liquids or solids."
+  ],
+  "pour-with": [
+   "- Bowl - The deep, curved part of the ladle from which liquids are poured.",
+   "- Lip - The edge or rim of the bowl that directs the flow of liquid when pouring."
+  ]
+ },
+ "spatula": {
+  "press-with": [
+   "- Blade - The broad, flat part typically used for flipping or spreading.  ",
+   "- Surface - The face of the blade which directly contacts and presses against items."
+  ],
+  "lift-with": [
+   "- Blade - The broad, flat part used for sliding under and lifting items.",
+   "- Surface - The flat area of the blade where food items are placed for lifting."
+  ],
+  "scrape-with": [
+   "- Blade - The flat, flexible part used for scraping surfaces.",
+   "- Edge - The thin side of the blade useful for scraping off materials."
+  ],
+  "spread-with": [
+   "- Blade - the flat, flexible part used for spreading.",
+   "- Head - The broad, slightly curved end of the spatula used to apply and spread materials."
+  ],
+  "pry-with": [
+   "- Blade - The wide, flat part typically used for flipping or spreading.",
+   "- Tip - The edge of the blade that can be inserted to pry open containers."
+  ]
+ },
+ "strainer": {
+  "lift-with": [
+   "- Rim - The firm edge around the top of the strainer's bowl that helps maintain its shape.",
+   "- Mesh - The network of wire or other material that forms the body of the strainer, which can be lifted directly."
+  ],
+  "sift-with": [
+   "- Mesh - The fine net-like material that separates solids from finer particles or liquids."
+  ]
+ },
+ "hammer": {
+  "scrape-with": [
+   "- Claw - The part of the hammer head that is split, typically used to pull nails but can also be used to scrape.",
+   "- Edge - The side or end of the hammer head that can be utilized to scrape surfaces."
+  ],
+  "pound-with": [
+   "- Head - The solid metal part at the top of the hammer used for striking.",
+   "- Face - The flat end of the head, which directly contacts nails or other materials to pound them."
+  ],
+  "pull-with": [
+   "- Claw - The curved, forked part at the back of the hammer head used for pulling nails out of surfaces.",
+   "- Head - The solid, heavy part of the hammer that includes the claw for pulling."
+  ],
+  "pry-with": [
+   "- Claw - The split, curved part at the back of the hammer head, used for pulling out nails and prying objects apart.",
+   "- Head - The solid mass at the top of the hammer, which can leverage against a surface for prying."
+  ]
+ },
+ "fixed_joint_pliers": {
+  "pierce-with": [
+   "- Jaws - The metal tips of the pliers that can be used to pierce materials by exerting pressure.",
+   "- Teeth - The serrated surfaces within the jaws that grip and can pierce into items forcefully."
+  ],
+  "poke-with": [
+   "- Tips - The pointed ends of the plier's jaws, which can be used to poke into small spaces or items.",
+   "- Jaws - The opposing parts that come together to grasp objects, which can also be used to poke if they have a narrow profile."
+  ]
+ },
+ "ratchet": {
+  "poke-with": [
+   "- Head - The part of the ratchet where the socket is attached, and can also be used to poke."
+  ],
+  "pull-with": [
+   "- Head - The part of the ratchet that houses the mechanism where sockets are attached, aiding in the pull action.",
+   "- Pawl - The small, clickable mechanism inside the head that engages with the gear to apply the pulling force."
+  ]
+ }
+}

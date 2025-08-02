@@ -1,0 +1,1852 @@
+{
+ "paintbrush": {
+  "bristles": [
+   "write-with",
+   "poke-with",
+   "brush-with"
+  ],
+  "head": [
+   "brush-with"
+  ],
+  "tip": [
+   "write-with",
+   "poke-with"
+  ]
+ },
+ "hairbrush": {
+  "bristles": [
+   "sweep-with",
+   "brush-with"
+  ],
+  "pad": [
+   "brush-with"
+  ],
+  "back": [
+   "pound-with"
+  ],
+  "head": [
+   "sweep-with"
+  ]
+ },
+ "toothbrush": {
+  "bristles": [
+   "poke-with",
+   "brush-with",
+   "mix-with"
+  ],
+  "head": [
+   "poke-with",
+   "brush-with",
+   "mix-with"
+  ]
+ },
+ "mop": {
+  "bristles": [
+   "sweep-with",
+   "brush-with"
+  ],
+  "head": [
+   "sweep-with",
+   "brush-with"
+  ]
+ },
+ "broom": {
+  "bristles": [
+   "sweep-with",
+   "brush-with"
+  ],
+  "head": [
+   "sweep-with",
+   "brush-with"
+  ]
+ },
+ "brush": {
+  "bristles": [
+   "mix-with",
+   "brush-with",
+   "spread-with",
+   "scrape-with",
+   "sweep-with"
+  ],
+  "head": [
+   "mix-with",
+   "brush-with",
+   "spread-with",
+   "scrape-with",
+   "sweep-with"
+  ]
+ },
+ "feather": {
+  "barb": [
+   "sweep-with",
+   "brush-with"
+  ],
+  "vane": [
+   "sweep-with",
+   "brush-with"
+  ]
+ },
+ "dagger": {
+  "blade": [
+   "scrape-with",
+   "cut-with",
+   "peel-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "peel-with"
+  ],
+  "tip": [
+   "pry-with",
+   "pierce-with"
+  ],
+  "spine": [
+   "pry-with"
+  ]
+ },
+ "letter opener": {
+  "blade": [
+   "scrape-with",
+   "cut-with",
+   "mix-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with"
+  ],
+  "tip": [
+   "poke-with",
+   "pierce-with",
+   "mix-with"
+  ]
+ },
+ "chisel": {
+  "blade": [
+   "peel-with",
+   "dig-with",
+   "pry-with",
+   "cut-with",
+   "scrape-with",
+   "wedge-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "peel-with"
+  ],
+  "tip": [
+   "wedge-with",
+   "pry-with",
+   "pierce-with",
+   "dig-with"
+  ]
+ },
+ "cleaver": {
+  "blade": [
+   "scrape-with",
+   "cut-with",
+   "lift-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "lift-with"
+  ],
+  "back": [
+   "pound-with",
+   "spread-with"
+  ],
+  "side": [
+   "pound-with",
+   "spread-with"
+  ]
+ },
+ "axe": {
+  "blade": [
+   "cut-with",
+   "wedge-with"
+  ],
+  "edge": [
+   "cut-with",
+   "wedge-with"
+  ],
+  "back": [
+   "pound-with"
+  ],
+  "head": [
+   "pound-with"
+  ]
+ },
+ "razor blade": {
+  "blade": [
+   "cut-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with"
+  ],
+  "corner": [
+   "scrape-with"
+  ]
+ },
+ "box cutter": {
+  "blade": [
+   "scrape-with",
+   "cut-with",
+   "peel-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "peel-with"
+  ],
+  "tip": [
+   "pierce-with"
+  ]
+ },
+ "machete": {
+  "blade": [
+   "scrape-with",
+   "cut-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with"
+  ],
+  "tip": [
+   "pierce-with"
+  ]
+ },
+ "saw": {
+  "blade": [
+   "cut-with"
+  ],
+  "teeth": [
+   "cut-with"
+  ]
+ },
+ "credit card": {
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "spread-with",
+   "sweep-with"
+  ],
+  "surface": [
+   "press-with"
+  ],
+  "corner": [
+   "scrape-with"
+  ]
+ },
+ "scalpel": {
+  "blade": [
+   "scrape-with",
+   "cut-with",
+   "peel-with",
+   "mix-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "peel-with"
+  ],
+  "tip": [
+   "pierce-with"
+  ],
+  "shaft": [
+   "mix-with"
+  ]
+ },
+ "spatula": {
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "wedge-with"
+  ],
+  "blade": [
+   "press-with",
+   "mix-with",
+   "pry-with",
+   "lift-with",
+   "cut-with",
+   "spread-with",
+   "scrape-with",
+   "sweep-with",
+   "wedge-with"
+  ],
+  "head": [
+   "press-with",
+   "mix-with",
+   "lift-with",
+   "spread-with",
+   "pound-with",
+   "sweep-with"
+  ],
+  "tip": [
+   "pry-with"
+  ]
+ },
+ "ice skate": {
+  "blade": [
+   "cut-with"
+  ],
+  "edge": [
+   "cut-with"
+  ]
+ },
+ "knife": {
+  "blade": [
+   "peel-with",
+   "dig-with",
+   "mix-with",
+   "lift-with",
+   "cut-with",
+   "spread-with",
+   "scrape-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "cut-with",
+   "spread-with",
+   "peel-with"
+  ],
+  "tip": [
+   "pry-with",
+   "pierce-with",
+   "dig-with"
+  ],
+  "spine": [
+   "pry-with",
+   "lift-with"
+  ],
+  "back": [
+   "mix-with"
+  ]
+ },
+ "pizza cutter": {
+  "blade": [
+   "cut-with"
+  ],
+  "edge": [
+   "cut-with"
+  ]
+ },
+ "scissors": {
+  "blade": [
+   "scrape-with",
+   "cut-with"
+  ],
+  "edges": [
+   "scrape-with",
+   "cut-with"
+  ],
+  "point": [
+   "pierce-with"
+  ]
+ },
+ "key": {
+  "edge": [
+   "cut-with"
+  ],
+  "blade": [
+   "scrape-with",
+   "pry-with",
+   "cut-with",
+   "dig-with"
+  ],
+  "tip": [
+   "scrape-with",
+   "pry-with",
+   "poke-with",
+   "dig-with"
+  ]
+ },
+ "CD": {
+  "edge": [
+   "scrape-with",
+   "cut-with"
+  ]
+ },
+ "ruler": {
+  "edge": [
+   "pry-with",
+   "lift-with",
+   "cut-with",
+   "spread-with",
+   "scrape-with"
+  ],
+  "end": [
+   "mix-with",
+   "pry-with",
+   "lift-with",
+   "dig-with"
+  ],
+  "corner": [
+   "scrape-with"
+  ],
+  "surface": [
+   "spread-with"
+  ]
+ },
+ "sword": {
+  "blade": [
+   "cut-with"
+  ],
+  "edge": [
+   "cut-with"
+  ],
+  "point": [
+   "pierce-with"
+  ]
+ },
+ "fork": {
+  "tines": [
+   "dig-with",
+   "mix-with",
+   "pry-with",
+   "lift-with",
+   "poke-with",
+   "scrape-with",
+   "pierce-with",
+   "sweep-with"
+  ],
+  "tip": [
+   "poke-with",
+   "pierce-with",
+   "dig-with"
+  ],
+  "edge": [
+   "scrape-with"
+  ],
+  "neck": [
+   "mix-with"
+  ],
+  "shaft": [
+   "pry-with"
+  ]
+ },
+ "shovel": {
+  "blade": [
+   "dig-with",
+   "scoop-with",
+   "pry-with",
+   "lift-with",
+   "scrape-with",
+   "pound-with",
+   "sweep-with"
+  ],
+  "tip": [
+   "pry-with",
+   "dig-with"
+  ],
+  "scoop": [
+   "scoop-with",
+   "lift-with",
+   "sweep-with"
+  ],
+  "edge": [
+   "scrape-with"
+  ],
+  "back": [
+   "pound-with"
+  ]
+ },
+ "spoon": {
+  "bowl": [
+   "press-with",
+   "dig-with",
+   "mix-with",
+   "scoop-with",
+   "pry-with",
+   "lift-with",
+   "spread-with",
+   "pound-with"
+  ],
+  "tip": [
+   "dig-with",
+   "scoop-with",
+   "pry-with",
+   "lift-with",
+   "poke-with"
+  ],
+  "back": [
+   "pound-with",
+   "press-with",
+   "spread-with",
+   "mix-with"
+  ],
+  "rim": [
+   "scrape-with",
+   "scoop-with"
+  ]
+ },
+ "pickaxe": {
+  "head": [
+   "pound-with",
+   "dig-with"
+  ],
+  "tip": [
+   "scrape-with",
+   "pierce-with",
+   "poke-with",
+   "dig-with"
+  ],
+  "blade": [
+   "scrape-with",
+   "pry-with",
+   "dig-with"
+  ],
+  "back": [
+   "pound-with"
+  ],
+  "adze": [
+   "pry-with"
+  ]
+ },
+ "trowel": {
+  "blade": [
+   "dig-with",
+   "scoop-with",
+   "lift-with",
+   "spread-with",
+   "scrape-with",
+   "sweep-with"
+  ],
+  "tip": [
+   "spread-with",
+   "dig-with"
+  ],
+  "scoop": [
+   "scoop-with",
+   "lift-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "sweep-with"
+  ]
+ },
+ "plow": {
+  "blade": [
+   "dig-with"
+  ],
+  "share": [
+   "dig-with"
+  ],
+  "moldboard": [
+   "dig-with"
+  ]
+ },
+ "chopsticks": {
+  "tip": [
+   "mix-with",
+   "dig-with",
+   "pry-with",
+   "pick up-with",
+   "poke-with",
+   "pierce-with"
+  ],
+  "shaft": [
+   "mix-with"
+  ]
+ },
+ "screwdriver": {
+  "shaft": [
+   "scrape-with",
+   "pry-with",
+   "mix-with",
+   "dig-with"
+  ],
+  "tip": [
+   "mix-with",
+   "dig-with",
+   "pry-with",
+   "poke-with",
+   "scrape-with",
+   "pierce-with"
+  ]
+ },
+ "hoe": {
+  "blade": [
+   "press-with",
+   "dig-with",
+   "pull-with",
+   "scrape-with",
+   "sweep-with"
+  ],
+  "face": [
+   "press-with",
+   "sweep-with",
+   "dig-with"
+  ],
+  "edge": [
+   "scrape-with"
+  ]
+ },
+ "stick": {
+  "tip": [
+   "poke-with",
+   "dig-with"
+  ]
+ },
+ "awl": {
+  "tip": [
+   "mix-with",
+   "dig-with",
+   "poke-with",
+   "scrape-with",
+   "pierce-with"
+  ],
+  "shaft": [
+   "mix-with",
+   "dig-with"
+  ],
+  "blade": [
+   "scrape-with"
+  ],
+  "spike": [
+   "poke-with"
+  ]
+ },
+ "nail": {
+  "tip": [
+   "scrape-with",
+   "pierce-with",
+   "poke-with",
+   "dig-with"
+  ],
+  "shank": [
+   "scrape-with"
+  ]
+ },
+ "paddle": {
+  "blade": [
+   "press-with",
+   "dig-with",
+   "mix-with",
+   "lift-with",
+   "scrape-with",
+   "sweep-with"
+  ],
+  "tip": [
+   "dig-with"
+  ],
+  "face": [
+   "press-with",
+   "sweep-with",
+   "mix-with"
+  ],
+  "edge": [
+   "scrape-with"
+  ]
+ },
+ "dustpan": {
+  "lip": [
+   "scoop-with",
+   "lift-with",
+   "dig-with"
+  ],
+  "scoop": [
+   "lift-with",
+   "dig-with"
+  ],
+  "pan": [
+   "scoop-with"
+  ]
+ },
+ "lid": {
+  "underside": [
+   "press-with"
+  ],
+  "top": [
+   "lift-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "lift-with"
+  ]
+ },
+ "teapot": {
+  "base": [
+   "press-with"
+  ],
+  "spout": [
+   "pour-with"
+  ]
+ },
+ "pan": {
+  "base": [
+   "pound-with",
+   "press-with"
+  ],
+  "bowl": [
+   "scoop-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "spout": [
+   "pour-with"
+  ],
+  "side": [
+   "pound-with"
+  ]
+ },
+ "plate": {
+  "base": [
+   "press-with"
+  ],
+  "rim": [
+   "lift-with"
+  ],
+  "surface": [
+   "lift-with"
+  ]
+ },
+ "plank": {
+  "surface": [
+   "press-with"
+  ]
+ },
+ "smartphone": {
+  "back": [
+   "press-with"
+  ]
+ },
+ "bottle": {
+  "base": [
+   "press-with"
+  ],
+  "mouth": [
+   "pour-with"
+  ],
+  "neck": [
+   "pour-with"
+  ],
+  "body": [
+   "roll-onto",
+   "pound-with"
+  ],
+  "side": [
+   "roll-onto",
+   "pound-with"
+  ]
+ },
+ "jar": {
+  "base": [
+   "press-with"
+  ],
+  "mouth": [
+   "pour-with"
+  ],
+  "neck": [
+   "pour-with"
+  ],
+  "body": [
+   "roll-onto",
+   "pound-with"
+  ]
+ },
+ "cup": {
+  "base": [
+   "press-with"
+  ],
+  "bowl": [
+   "scoop-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "lip": [
+   "pour-with"
+  ],
+  "side": [
+   "roll-onto"
+  ]
+ },
+ "pestle": {
+  "head": [
+   "pound-with",
+   "press-with"
+  ],
+  "body": [
+   "pound-with"
+  ]
+ },
+ "hammer": {
+  "head": [
+   "pound-with",
+   "press-with",
+   "pull-with"
+  ],
+  "face": [
+   "pound-with",
+   "press-with"
+  ],
+  "claw": [
+   "pull-with"
+  ]
+ },
+ "pot": {
+  "base": [
+   "pound-with",
+   "press-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "spout": [
+   "pour-with"
+  ],
+  "side": [
+   "pound-with"
+  ]
+ },
+ "CD case": {
+  "cover": [
+   "press-with"
+  ],
+  "back": [
+   "press-with"
+  ]
+ },
+ "ladle": {
+  "bowl": [
+   "press-with",
+   "mix-with",
+   "scoop-with",
+   "pound-with",
+   "pour-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "side": [
+   "pound-with"
+  ]
+ },
+ "shoe": {
+  "sole": [
+   "pound-with",
+   "press-with"
+  ],
+  "heel": [
+   "pound-with",
+   "press-with"
+  ],
+  "opening": [
+   "scoop-with",
+   "pour-with"
+  ]
+ },
+ "glass": {
+  "base": [
+   "press-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "bowl": [
+   "scoop-with"
+  ],
+  "lip": [
+   "pour-with"
+  ],
+  "body": [
+   "roll-onto"
+  ]
+ },
+ "stone": {
+  "surface": [
+   "press-with"
+  ]
+ },
+ "clipboard": {
+  "base": [
+   "press-with",
+   "lift-with"
+  ],
+  "backboard": [
+   "press-with"
+  ]
+ },
+ "book": {
+  "cover": [
+   "press-with"
+  ]
+ },
+ "brick": {
+  "face": [
+   "pound-with",
+   "press-with"
+  ],
+  "side": [
+   "press-with"
+  ]
+ },
+ "tablet": {
+  "back": [
+   "press-with"
+  ]
+ },
+ "bowl": {
+  "base": [
+   "pound-with",
+   "press-with"
+  ],
+  "interior": [
+   "scoop-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "side": [
+   "pound-with"
+  ]
+ },
+ "meat tenderizer": {
+  "base": [
+   "press-with"
+  ],
+  "face": [
+   "pound-with",
+   "press-with"
+  ],
+  "head": [
+   "pound-with"
+  ]
+ },
+ "can": {
+  "base": [
+   "press-with"
+  ],
+  "mouth": [
+   "pour-with"
+  ],
+  "rim": [
+   "pour-with"
+  ],
+  "body": [
+   "roll-onto",
+   "pound-with"
+  ],
+  "side": [
+   "roll-onto"
+  ]
+ },
+ "cutting board": {
+  "base": [
+   "press-with"
+  ],
+  "surface": [
+   "lift-with"
+  ]
+ },
+ "mallet": {
+  "head": [
+   "pound-with",
+   "press-with"
+  ],
+  "face": [
+   "pound-with",
+   "press-with"
+  ]
+ },
+ "stamp": {
+  "base": [
+   "press-with"
+  ],
+  "face": [
+   "press-with"
+  ]
+ },
+ "mug": {
+  "base": [
+   "press-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "body": [
+   "roll-onto"
+  ],
+  "handle": [
+   "hang-onto"
+  ]
+ },
+ "tray": {
+  "base": [
+   "press-with"
+  ],
+  "surface": [
+   "lift-with"
+  ]
+ },
+ "water bottle": {
+  "base": [
+   "press-with"
+  ],
+  "mouth": [
+   "pour-with"
+  ],
+  "neck": [
+   "pour-with"
+  ],
+  "body": [
+   "roll-onto",
+   "pound-with"
+  ],
+  "side": [
+   "roll-onto"
+  ]
+ },
+ "candle holder": {
+  "base": [
+   "pound-with",
+   "press-with"
+  ],
+  "plate": [
+   "press-with"
+  ],
+  "body": [
+   "pound-with"
+  ]
+ },
+ "jug": {
+  "base": [
+   "press-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "spout": [
+   "pour-with"
+  ]
+ },
+ "saucepan": {
+  "base": [
+   "pound-with",
+   "press-with"
+  ],
+  "body": [
+   "scoop-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "spout": [
+   "pour-with"
+  ],
+  "side": [
+   "pound-with"
+  ]
+ },
+ "boot": {
+  "sole": [
+   "pound-with",
+   "press-with"
+  ],
+  "heel": [
+   "pound-with",
+   "press-with"
+  ]
+ },
+ "coffee pot": {
+  "base": [
+   "press-with"
+  ],
+  "spout": [
+   "pour-with"
+  ],
+  "mouth": [
+   "pour-with"
+  ]
+ },
+ "bucket": {
+  "base": [
+   "press-with"
+  ],
+  "rim": [
+   "scoop-with",
+   "pour-with"
+  ]
+ },
+ "flask": {
+  "base": [
+   "press-with"
+  ],
+  "mouth": [
+   "scoop-with",
+   "pour-with"
+  ],
+  "neck": [
+   "scoop-with",
+   "pour-with"
+  ]
+ },
+ "kettle": {
+  "base": [
+   "press-with"
+  ],
+  "spout": [
+   "pour-with"
+  ],
+  "mouth": [
+   "pour-with"
+  ]
+ },
+ "seashell": {
+  "lip": [
+   "scoop-with",
+   "lift-with"
+  ],
+  "apex": [
+   "lift-with"
+  ],
+  "bowl": [
+   "scoop-with"
+  ]
+ },
+ "pitchfork": {
+  "tines": [
+   "scrape-with",
+   "pierce-with",
+   "sweep-with"
+  ],
+  "tips": [
+   "scrape-with",
+   "pierce-with"
+  ],
+  "head": [
+   "sweep-with"
+  ]
+ },
+ "pen": {
+  "tip": [
+   "scrape-with",
+   "write-with",
+   "pierce-with",
+   "mix-with"
+  ],
+  "barrel": [
+   "roll-onto",
+   "mix-with"
+  ],
+  "ball": [
+   "write-with"
+  ]
+ },
+ "squeegee": {
+  "blade": [
+   "scrape-with",
+   "sweep-with"
+  ],
+  "rubber": [
+   "scrape-with",
+   "sweep-with"
+  ]
+ },
+ "pin": {
+  "tip": [
+   "scrape-with",
+   "pierce-with",
+   "poke-with"
+  ],
+  "shaft": [
+   "scrape-with"
+  ]
+ },
+ "grater": {
+  "blades": [
+   "scrape-with"
+  ],
+  "surface": [
+   "scrape-with"
+  ]
+ },
+ "paper clip": {
+  "end": [
+   "scrape-with",
+   "hang-onto"
+  ],
+  "loop": [
+   "hang-onto"
+  ]
+ },
+ "comb": {
+  "teeth": [
+   "scrape-with"
+  ],
+  "edge": [
+   "scrape-with"
+  ]
+ },
+ "stylus": {
+  "tip": [
+   "mix-with",
+   "write-with",
+   "poke-with",
+   "scrape-with",
+   "pierce-with"
+  ],
+  "shaft": [
+   "mix-with"
+  ]
+ },
+ "license plate": {
+  "edge": [
+   "scrape-with"
+  ]
+ },
+ "pencil": {
+  "tip": [
+   "mix-with",
+   "write-with",
+   "poke-with",
+   "scrape-with",
+   "pierce-with"
+  ],
+  "graphite": [
+   "write-with"
+  ],
+  "barrel": [
+   "mix-with"
+  ]
+ },
+ "toothpick": {
+  "tip": [
+   "scrape-with",
+   "pierce-with",
+   "poke-with"
+  ],
+  "shaft": [
+   "scrape-with"
+  ]
+ },
+ "hook": {
+  "tip": [
+   "scrape-with",
+   "hang-onto",
+   "pierce-with",
+   "pull-with"
+  ],
+  "curve": [
+   "scrape-with",
+   "hang-onto",
+   "pull-with"
+  ],
+  "barb": [
+   "pierce-with"
+  ]
+ },
+ "coin": {
+  "edge": [
+   "scrape-with"
+  ]
+ },
+ "rake": {
+  "tines": [
+   "scrape-with",
+   "sweep-with"
+  ],
+  "head": [
+   "scrape-with",
+   "sweep-with"
+  ]
+ },
+ "file": {
+  "teeth": [
+   "scrape-with"
+  ],
+  "edge": [
+   "scrape-with"
+  ]
+ },
+ "peeler": {
+  "blade": [
+   "scrape-with",
+   "peel-with"
+  ],
+  "edge": [
+   "scrape-with",
+   "peel-with"
+  ]
+ },
+ "corkscrew": {
+  "spiral": [
+   "scrape-with"
+  ],
+  "tip": [
+   "scrape-with",
+   "pierce-with"
+  ],
+  "lever": [
+   "pry-with"
+  ],
+  "fork": [
+   "pry-with"
+  ]
+ },
+ "needle": {
+  "point": [
+   "scrape-with",
+   "pierce-with",
+   "poke-with"
+  ],
+  "shaft": [
+   "scrape-with"
+  ]
+ },
+ "hockey stick": {
+  "blade": [
+   "scrape-with",
+   "pound-with",
+   "sweep-with"
+  ],
+  "edge": [
+   "scrape-with"
+  ],
+  "shaft": [
+   "pound-with"
+  ]
+ },
+ "screw": {
+  "threads": [
+   "scrape-with"
+  ],
+  "tip": [
+   "scrape-with",
+   "pierce-with"
+  ]
+ },
+ "card": {
+  "edge": [
+   "scrape-with",
+   "spread-with",
+   "sweep-with"
+  ],
+  "corner": [
+   "scrape-with"
+  ],
+  "surface": [
+   "spread-with"
+  ]
+ },
+ "coconut shell": {
+  "bowl": [
+   "scoop-with"
+  ],
+  "interior": [
+   "scoop-with"
+  ],
+  "opening": [
+   "pour-with"
+  ]
+ },
+ "hat": {
+  "brim": [
+   "scoop-with",
+   "pour-with"
+  ]
+ },
+ "hard hat": {
+  "brim": [
+   "scoop-with",
+   "pour-with"
+  ]
+ },
+ "pliers": {
+  "jaws": [
+   "apply torque-with",
+   "poke-with",
+   "pick up-with"
+  ],
+  "tip": [
+   "poke-with",
+   "pick up-with"
+  ],
+  "pivot": [
+   "apply torque-with"
+  ]
+ },
+ "tongs": {
+  "tips": [
+   "mix-with",
+   "poke-with",
+   "pick up-with"
+  ],
+  "prongs": [
+   "poke-with",
+   "pick up-with"
+  ],
+  "arms": [
+   "mix-with"
+  ]
+ },
+ "tweezers": {
+  "tips": [
+   "poke-with",
+   "pick up-with"
+  ],
+  "arms": [
+   "pick up-with"
+  ]
+ },
+ "grabber": {
+  "tongs": [
+   "pull-with",
+   "apply torque-with",
+   "pick up-with"
+  ],
+  "grippers": [
+   "pick up-with"
+  ],
+  "hooks": [
+   "pull-with"
+  ],
+  "head": [
+   "apply torque-with"
+  ]
+ },
+ "dart": {
+  "tip": [
+   "pierce-with"
+  ]
+ },
+ "skewer": {
+  "tip": [
+   "poke-with",
+   "pierce-with",
+   "mix-with"
+  ],
+  "shaft": [
+   "mix-with"
+  ]
+ },
+ "safety pin": {
+  "point": [
+   "pierce-with"
+  ]
+ },
+ "stilettos": {
+  "heel": [
+   "pierce-with"
+  ],
+  "tip": [
+   "pierce-with"
+  ]
+ },
+ "golf tee": {
+  "tip": [
+   "pierce-with"
+  ]
+ },
+ "harpoon": {
+  "tip": [
+   "pierce-with"
+  ],
+  "head": [
+   "pull-with",
+   "pierce-with"
+  ],
+  "barb": [
+   "pull-with"
+  ]
+ },
+ "spear": {
+  "tip": [
+   "pierce-with"
+  ]
+ },
+ "drill": {
+  "bit": [
+   "pierce-with"
+  ],
+  "tip": [
+   "pierce-with"
+  ]
+ },
+ "fish hook": {
+  "point": [
+   "pierce-with"
+  ],
+  "barb": [
+   "hang-onto",
+   "pierce-with"
+  ],
+  "bend": [
+   "pull-with",
+   "hang-onto"
+  ],
+  "shank": [
+   "pull-with"
+  ]
+ },
+ "oil can": {
+  "spout": [
+   "pour-with"
+  ],
+  "nozzle": [
+   "pour-with"
+  ]
+ },
+ "watering can": {
+  "spout": [
+   "pour-with"
+  ],
+  "mouth": [
+   "pour-with"
+  ]
+ },
+ "decanter": {
+  "mouth": [
+   "pour-with"
+  ],
+  "neck": [
+   "pour-with"
+  ]
+ },
+ "baton": {
+  "tip": [
+   "pound-with",
+   "poke-with",
+   "mix-with"
+  ],
+  "shaft": [
+   "pound-with",
+   "mix-with"
+  ]
+ },
+ "drumstick": {
+  "tip": [
+   "poke-with"
+  ],
+  "bead": [
+   "poke-with"
+  ]
+ },
+ "antenna": {
+  "tip": [
+   "poke-with"
+  ]
+ },
+ "matchstick": {
+  "tip": [
+   "poke-with"
+  ]
+ },
+ "coat hanger": {
+  "ends": [
+   "poke-with"
+  ],
+  "hook": [
+   "pull-with",
+   "hang-onto"
+  ]
+ },
+ "rod": {
+  "tip": [
+   "poke-with",
+   "mix-with"
+  ],
+  "shaft": [
+   "mix-with"
+  ]
+ },
+ "pipe": {
+  "end": [
+   "pound-with",
+   "poke-with"
+  ],
+  "body": [
+   "roll-onto",
+   "pound-with"
+  ],
+  "surface": [
+   "roll-onto"
+  ]
+ },
+ "stirrer": {
+  "tip": [
+   "poke-with",
+   "mix-with"
+  ],
+  "shaft": [
+   "mix-with"
+  ]
+ },
+ "branch": {
+  "tip": [
+   "poke-with",
+   "mix-with"
+  ],
+  "twig": [
+   "mix-with"
+  ]
+ },
+ "crayon": {
+  "tip": [
+   "write-with",
+   "poke-with"
+  ],
+  "wax": [
+   "write-with"
+  ]
+ },
+ "dowel": {
+  "tip": [
+   "poke-with"
+  ],
+  "surface": [
+   "roll-onto"
+  ],
+  "body": [
+   "roll-onto"
+  ]
+ },
+ "dumbbell": {
+  "end": [
+   "pound-with"
+  ]
+ },
+ "crowbar": {
+  "end": [
+   "pound-with"
+  ],
+  "claw": [
+   "pull-with"
+  ],
+  "hook": [
+   "pull-with"
+  ],
+  "chisel_end": [
+   "pry-with"
+  ],
+  "curve": [
+   "pry-with"
+  ]
+ },
+ "wrench": {
+  "head": [
+   "pound-with",
+   "apply torque-with"
+  ],
+  "jaw": [
+   "pry-with",
+   "apply torque-with"
+  ]
+ },
+ "club": {
+  "head": [
+   "pound-with"
+  ]
+ },
+ "log": {
+  "end": [
+   "pound-with"
+  ],
+  "side": [
+   "pound-with"
+  ],
+  "bark": [
+   "roll-onto"
+  ]
+ },
+ "gavel": {
+  "head": [
+   "pound-with"
+  ],
+  "face": [
+   "pound-with"
+  ]
+ },
+ "remote control": {
+  "body": [
+   "pound-with"
+  ],
+  "back": [
+   "pound-with"
+  ]
+ },
+ "flashlight": {
+  "end": [
+   "pound-with"
+  ],
+  "body": [
+   "roll-onto"
+  ],
+  "barrel": [
+   "roll-onto"
+  ]
+ },
+ "baseball bat": {
+  "barrel": [
+   "pound-with"
+  ],
+  "end": [
+   "pound-with"
+  ]
+ },
+ "rolling pin": {
+  "cylinder": [
+   "roll-onto",
+   "pound-with"
+  ],
+  "body": [
+   "pound-with"
+  ]
+ },
+ "cricket bat": {
+  "blade": [
+   "pound-with"
+  ],
+  "back": [
+   "pound-with"
+  ]
+ },
+ "bowling pin": {
+  "body": [
+   "roll-onto",
+   "pound-with"
+  ]
+ },
+ "cylinder": {
+  "surface": [
+   "roll-onto"
+  ]
+ },
+ "lipstick": {
+  "body": [
+   "roll-onto"
+  ],
+  "tip": [
+   "write-with"
+  ],
+  "stick": [
+   "write-with"
+  ]
+ },
+ "marker": {
+  "body": [
+   "roll-onto",
+   "mix-with"
+  ],
+  "tip": [
+   "write-with"
+  ]
+ },
+ "roller": {
+  "drum": [
+   "roll-onto"
+  ],
+  "surface": [
+   "roll-onto"
+  ]
+ },
+ "battery": {
+  "side": [
+   "roll-onto"
+  ],
+  "body": [
+   "roll-onto"
+  ]
+ },
+ "carabiner": {
+  "gate": [
+   "pull-with",
+   "hang-onto"
+  ],
+  "spine": [
+   "pull-with"
+  ]
+ },
+ "curtain ring": {
+  "loop": [
+   "hang-onto"
+  ]
+ },
+ "grappling hook": {
+  "hook": [
+   "pull-with"
+  ],
+  "flukes": [
+   "pull-with"
+  ]
+ },
+ "L-bracket": {
+  "flange": [
+   "pull-with"
+  ]
+ },
+ "wedge": {
+  "tip": [
+   "wedge-with"
+  ],
+  "edge": [
+   "wedge-with"
+  ]
+ },
+ "straw": {
+  "shaft": [
+   "mix-with"
+  ]
+ },
+ "whisk": {
+  "wires": [
+   "mix-with"
+  ],
+  "loop": [
+   "mix-with"
+  ]
+ },
+ "can opener": {
+  "blade": [
+   "pry-with"
+  ],
+  "lever": [
+   "pry-with"
+  ]
+ },
+ "bottle opener": {
+  "blade": [
+   "pry-with"
+  ],
+  "fork": [
+   "pry-with"
+  ]
+ },
+ "colander": {
+  "holes": [
+   "sift-with"
+  ],
+  "mesh": [
+   "sift-with"
+  ]
+ },
+ "strainer": {
+  "mesh": [
+   "sift-with"
+  ],
+  "bowl": [
+   "sift-with"
+  ]
+ },
+ "basket": {
+  "base": [
+   "sift-with"
+  ],
+  "weave": [
+   "sift-with"
+  ]
+ }
+}

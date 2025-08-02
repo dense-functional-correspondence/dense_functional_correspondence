@@ -1,0 +1,77 @@
+{
+ "fork": {
+  "tines": "- Tines - The long, thin, pointed prongs at the end of the fork used for piercing, lifting, and holding food.",
+  "head": "- Head - The upper flat section of the fork that holds the tines together and is used to slide under and lift food.",
+  "edge": "- Edge - The side of the tines which can be used for scraping actions.",
+  "prongs": "- Prongs - Another term for tines, which are sharp enough to impale food effectively.",
+  "tip": "- Tip - The pointed end of each tine designed to penetrate into items.",
+  "neck": "- Neck - The narrow section connecting the handle to the head of the fork, providing leverage for prying."
+ },
+ "spoon": {
+  "bowl": "- Bowl - The rounded, curved, concave part of the spoon used for scooping, lifting, pressing, scraping, spreading, and prying substances.",
+  "tip": "- Tip - The pointed end of the spoon's bowl opposite the handle, used for piercing, sliding under, or lifting substances.",
+  "back": "- Back - The flat, outer surface of the spoon bowl, used for pressing or spreading substances.",
+  "edge": "- Edge - The rim of the spoon's bowl, useful for scraping off materials."
+ },
+ "screwdriver": {
+  "shaft": "- Shaft - The long, cylindrical metal part extending from the handle to the tip, providing leverage and used for scraping or poking.",
+  "tip": "- Tip - The narrow, pointed or flat end of the screwdriver used for inserting into screw heads.",
+  "blade": "- Blade - The flat, narrow part extending from the handle to the tip, which can also be used for piercing if it is thin and sturdy enough."
+ },
+ "pan": {
+  "base": "- Base - The flat bottom part of the pan that comes into contact with the heat source and is used for cooking.",
+  "rim": "- Rim - The upper edge of the pan, which can be used to scoop.",
+  "lip": "- Lip - The rim or edge of the pan that curves slightly outward for controlled pouring.",
+  "spout": "- Spout - A specially designed notch or extension on the rim to facilitate pouring without dripping.",
+  "side": "- Side - The vertical or slightly sloped surfaces extending from the base to the rim, which can also be used for pounding."
+ },
+ "measuring_cup": {
+  "base": "- Base - The bottom surface of the measuring cup, which can be pressed against a surface.",
+  "bowl": "- Bowl - The open, hollow part of the measuring cup used to contain and scoop materials.",
+  "rim": "- Rim - The edge of the bowl that helps in leveling off the scooped materials.",
+  "spout": "- Spout - The protruding part at the rim, shaped specifically to direct the flow of liquids.",
+  "lip": "- Lip - The edge of the cup's rim that helps control the pour when a spout is not present."
+ },
+ "mug": {
+  "base": "- Base - The flat bottom part of the mug that makes contact with surfaces.",
+  "rim": "- Rim - The upper edge of the mug from which liquids are poured and materials can be scooped.",
+  "mouth": "- Mouth - The opening at the top of the mug from which beverages are poured.",
+  "body": "- Body - The cylindrical or slightly tapered main part of the mug where drinks are held."
+ },
+ "pot": {
+  "base": "- Base - The flat, sturdy bottom of the pot, used for stability and to make contact with surfaces.",
+  "rim": "- Rim - The upper edge of the pot, which can scoop up materials when tilted.",
+  "side": "- Side - The cylindrical outer surface of the pot, which can be used to strike against items."
+ },
+ "ladle": {
+  "bowl": "- Bowl - The deep, curved part of the ladle used to scoop, hold, and pour liquids or solids.",
+  "base": "- Base - The bottom surface of the bowl, which can be pressed against a surface.",
+  "lip": "- Lip - The edge or rim of the bowl that directs the flow of liquid when pouring."
+ },
+ "spatula": {
+  "blade": "- Blade - The wide, flat, flexible part used for flipping, spreading, scraping, and lifting items.",
+  "surface": "- Surface - The flat face of the blade that contacts, presses against, and lifts food items.",
+  "edge": "- Edge - The thin side of the blade useful for scraping off materials.",
+  "head": "- Head - The broad, slightly curved end of the spatula used to apply and spread materials.",
+  "tip": "- Tip - The edge of the blade that can be inserted to pry open containers."
+ },
+ "strainer": {
+  "rim": "- Rim - The firm edge around the top of the strainer's bowl that helps maintain its shape.",
+  "mesh": "- Mesh - Fine net-like material that separates solids from liquids, forming the body of the strainer."
+ },
+ "hammer": {
+  "claw": "- Claw - The split, curved, forked part at the back of the hammer head, used for pulling nails and prying objects.",
+  "edge": "- Edge - The side or end of the hammer head that can be utilized to scrape surfaces.",
+  "head": "- Head - The solid, heavy metal part at the top of the hammer used for striking, pulling nails, and prying against surfaces.",
+  "face": "- Face - The flat end of the head, which directly contacts nails or other materials to pound them."
+ },
+ "fixed_joint_pliers": {
+  "jaws": "- Jaws - The metal tips on the pliers used to grasp or exert pressure on objects, capable of piercing if narrow.",
+  "teeth": "- Teeth - The serrated surfaces within the jaws that grip and can pierce into items forcefully.",
+  "tips": "- Tips - The pointed ends of the plier's jaws, which can be used to poke into small spaces or items."
+ },
+ "ratchet": {
+  "head": "- Head - The component of the ratchet that houses the mechanism for socket attachment and facilitates the pull action.",
+  "pawl": "- Pawl - The small, clickable mechanism inside the head that engages with the gear to apply the pulling force."
+ }
+}

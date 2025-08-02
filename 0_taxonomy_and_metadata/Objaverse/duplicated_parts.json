@@ -1,0 +1,255 @@
+{
+ "paintbrush": {},
+ "hairbrush": {},
+ "toothbrush": {},
+ "mop": {},
+ "broom": {},
+ "brush": {},
+ "feather": {},
+ "dagger": {
+  "point": "tip"
+ },
+ "letter opener": {
+  "point": "tip"
+ },
+ "chisel": {},
+ "cleaver": {},
+ "axe": {},
+ "razor blade": {},
+ "box cutter": {},
+ "machete": {},
+ "saw": {},
+ "credit card": {},
+ "scalpel": {},
+ "spatula": {
+  "face": "head",
+  "surface": "head",
+  "base": "head"
+ },
+ "ice skate": {},
+ "knife": {
+  "point": "tip"
+ },
+ "pizza cutter": {},
+ "scissors": {
+  "blades": "blade",
+  "edge": "edges"
+ },
+ "key": {},
+ "CD": {},
+ "ruler": {},
+ "sword": {},
+ "fork": {},
+ "shovel": {},
+ "spoon": {
+  "edge": "rim"
+ },
+ "pickaxe": {
+  "point": "tip"
+ },
+ "trowel": {},
+ "plow": {},
+ "chopsticks": {},
+ "screwdriver": {},
+ "hoe": {},
+ "stick": {},
+ "awl": {
+  "point": "tip"
+ },
+ "nail": {
+  "point": "tip"
+ },
+ "paddle": {},
+ "dustpan": {
+  "edge": "lip"
+ },
+ "lid": {
+  "rim": "edge"
+ },
+ "teapot": {},
+ "pan": {
+  "lip": "rim"
+ },
+ "plate": {},
+ "plank": {},
+ "smartphone": {},
+ "bottle": {},
+ "jar": {},
+ "cup": {},
+ "pestle": {
+  "end": "head"
+ },
+ "hammer": {},
+ "pot": {},
+ "CD case": {},
+ "ladle": {
+  "lip": "rim"
+ },
+ "shoe": {
+  "top": "opening",
+  "insole": "opening"
+ },
+ "glass": {},
+ "stone": {
+  "side": "surface"
+ },
+ "clipboard": {},
+ "book": {},
+ "brick": {},
+ "tablet": {},
+ "bowl": {},
+ "meat tenderizer": {},
+ "can": {},
+ "cutting board": {},
+ "mallet": {},
+ "stamp": {},
+ "mug": {
+  "mouth": "rim"
+ },
+ "tray": {},
+ "water bottle": {},
+ "candle holder": {},
+ "jug": {
+  "mouth": "rim"
+ },
+ "saucepan": {},
+ "boot": {},
+ "coffee pot": {},
+ "bucket": {
+  "mouth": "rim"
+ },
+ "flask": {},
+ "kettle": {},
+ "seashell": {},
+ "pitchfork": {
+  "points": "tips"
+ },
+ "pen": {
+  "nib": "tip"
+ },
+ "squeegee": {},
+ "pin": {
+  "point": "tip"
+ },
+ "grater": {},
+ "paper clip": {
+  "ends": "end"
+ },
+ "comb": {},
+ "stylus": {
+  "nib": "tip"
+ },
+ "license plate": {},
+ "pencil": {
+  "point": "tip"
+ },
+ "toothpick": {
+  "point": "tip"
+ },
+ "hook": {
+  "point": "tip"
+ },
+ "coin": {},
+ "rake": {},
+ "file": {},
+ "peeler": {},
+ "corkscrew": {},
+ "needle": {},
+ "hockey stick": {},
+ "screw": {},
+ "card": {},
+ "coconut shell": {},
+ "hat": {},
+ "hard hat": {},
+ "pliers": {
+  "tips": "tip",
+  "jaw": "jaws"
+ },
+ "tongs": {
+  "clamps": "prongs"
+ },
+ "tweezers": {},
+ "grabber": {
+  "jaws": "tongs"
+ },
+ "dart": {
+  "point": "tip"
+ },
+ "skewer": {
+  "point": "tip"
+ },
+ "safety pin": {},
+ "stilettos": {},
+ "golf tee": {
+  "point": "tip"
+ },
+ "harpoon": {},
+ "spear": {
+  "point": "tip"
+ },
+ "drill": {},
+ "fish hook": {},
+ "oil can": {},
+ "watering can": {},
+ "decanter": {},
+ "baton": {
+  "end": "tip"
+ },
+ "drumstick": {},
+ "antenna": {},
+ "matchstick": {},
+ "coat hanger": {},
+ "rod": {
+  "end": "tip"
+ },
+ "pipe": {},
+ "stirrer": {
+  "end": "tip"
+ },
+ "branch": {
+  "end": "tip"
+ },
+ "crayon": {
+  "end": "tip"
+ },
+ "dowel": {
+  "end": "tip"
+ },
+ "dumbbell": {},
+ "crowbar": {},
+ "wrench": {},
+ "club": {},
+ "log": {
+  "surface": "bark"
+ },
+ "gavel": {},
+ "remote control": {},
+ "flashlight": {},
+ "baseball bat": {},
+ "rolling pin": {
+  "surface": "cylinder"
+ },
+ "cricket bat": {},
+ "bowling pin": {},
+ "cylinder": {},
+ "lipstick": {},
+ "marker": {
+  "nib": "tip"
+ },
+ "roller": {},
+ "battery": {},
+ "carabiner": {},
+ "curtain ring": {
+  "inner circumference": "loop"
+ },
+ "grappling hook": {},
+ "L-bracket": {},
+ "wedge": {},
+ "straw": {},
+ "whisk": {},
+ "can opener": {},
+ "bottle opener": {},
+ "colander": {},
+ "strainer": {},
+ "basket": {}
+}
